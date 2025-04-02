@@ -1,6 +1,6 @@
 # Changelog 
 
-Changes since last version (v1.19 - original forked version):
+Changes in version 1.20:
 - Added GLUL mitochondrial reaction (MAR20184)
 - Fixed directionality of MAR04356 (fructose 1-phosphate aldolase) to make it reversible
 - Renamed "i" compartment from "Inner mitochondria" to "Mitochondrial intermembrane space" for increased clarity
