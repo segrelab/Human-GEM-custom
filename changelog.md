@@ -9,3 +9,7 @@ Changes in version 1.20:
     - Altered DHODH reaction (MAR04575) to utilize "i" compartment metabolites
     - Altered FMN:ubiquinone reaction (MAR20167) to utilize "i" compartment FMN and FMNH2
     - Created transport reactions between cytosol and intermembrane space for DHO (MAR20185) and orotate (MAR20186)
+
+Possible changes to implement in later versions:
+- Removal/functional KO of MAR04280 (mitochondrial LDH reaction)
+- Removal/functional KO of non-ADP pyruvate kinase reactions (MAR04193, MAR04171, MAR04421, MAR04573, MAR04210)
