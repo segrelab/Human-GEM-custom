@@ -161548,7 +161548,7 @@
 },
 {
 "id":"MAR06916",
-"name":"ATP phosphohydrolase (ATP maintenance reaction)",
+"name":"ATP synthase",
 "metabolites":{
 "MAM01285m":-1.0,
 "MAM01371m":1.0,
@@ -262538,7 +262538,7 @@
 },
 {
 "id":"MAR03964",
-"name":"ATP phosphohydrolase",
+"name":"ATP phosphohydrolase (ATP maintenance reaction)",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
