@@ -113512,7 +113512,7 @@
 }
 },
 {
-"id":"mam03970e",
+"id":"MAM03970e",
 "name":"biomass",
 "compartment":"e",
 "charge":0,
@@ -430599,7 +430599,7 @@
 "name":"",
 "metabolites":{
 "MAM03970c":-1.0,
-"mam03970e":1.0
+"MAM03970e":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -430616,7 +430616,7 @@
 "id":"MAR10024",
 "name":"Exchange of biomass",
 "metabolites":{
-"mam03970e":-1.0
+"MAM03970e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,

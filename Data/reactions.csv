@@ -12683,8 +12683,8 @@
 12681,MAR13079,PIt2mi,Transport reactions,MAM02039i + MAM02751i --> MAM02039m + MAM02751m,H+ [i] + Pi [i] --> H+ [m] + Pi [m],0.0,1000.0,False,False,ENSG00000075415,,,,PIt2mi
 12682,MAR13080,Htmi,Transport reactions,MAM02039i --> MAM02039m,H+ [i] --> H+ [m],0.0,1000.0,False,False,ENSG00000102078 or ENSG00000109424 or ENSG00000153291 or ENSG00000175564 or ENSG00000175567,,,Htmi,Htmi
 12683,MAR13081,CYOOm3i,Oxidative phosphorylation,4.0 MAM01826m + 7.92 MAM02039m + MAM02630m --> 4.0 MAM01824m + 4.0 MAM02039i + 1.96 MAM02040m + 0.02 MAM02631m,4.0 ferrocytochrome C [m] + 7.92 H+ [m] + O2 [m] --> 4.0 ferricytochrome C [m] + 4.0 H+ [i] + 1.96 H2O [m] + 0.02 O2- [m],0.0,0.0,False,False,ENSG00000198804 and ENSG00000198712 and ENSG00000198938 and (ENSG00000131143 or ENSG00000131055) and ENSG00000178741 and ENSG00000135940 and (ENSG00000111775 or ENSG00000156885) and (ENSG00000126267 or ENSG00000160471) and ENSG00000164919 and (ENSG00000161281 or ENSG00000112695) and ENSG00000131174 and ENSG00000170516 and ENSG00000127184 and ENSG00000176340 and ENSG00000189043,,,CYOOm3i,CYOOm3i
-12684,MAR10023,,Transport reactions,MAM03970c --> mam03970e,biomass [c] --> mam03970e,0.0,1000.0,False,False,,,,,
-12685,MAR10024,Exchange of biomass,Exchange/demand reactions,mam03970e <=> ,mam03970e <=> ,-1000.0,1000.0,True,True,,,,,
+12684,MAR10023,,Transport reactions,MAM03970c --> MAM03970e,biomass [c] --> biomass [e],0.0,1000.0,False,False,,,,,
+12685,MAR10024,Exchange of biomass,Exchange/demand reactions,MAM03970e <=> ,biomass [e] <=> ,-1000.0,1000.0,True,True,,,,,
 12686,MAR10026,Exchange of chenodiol,Exchange/demand reactions,MAM01435e <=> ,chenodiol [e] <=> ,-1000.0,1000.0,True,True,,,,,
 12687,MAR10027,Exchange of LacCer pool,Exchange/demand reactions,MAM02328e <=> ,LacCer pool [e] <=> ,-1000.0,1000.0,True,True,,,,,
 12688,MAR10028,Exchange of Chylomicron Lipoprotein,Exchange/demand reactions,MAM03511e <=> ,Chylomicron Lipoprotein [e] <=> ,-1000.0,1000.0,True,True,,,,,
