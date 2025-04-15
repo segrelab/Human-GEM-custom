@@ -15,4 +15,3 @@ genes <- read_csv("Data/genes.csv") %>%
   select(-1) %>%
   mutate(across(c(Uniprot, Reactions), as.factor))
   
-save(reactions, metabolites, genes, file = "Data/data.RData")
