@@ -123715,8 +123715,8 @@
 "id":"MAR04365",
 "name":"D-phosphoglycerate 2,3-phosphomutase",
 "metabolites":{
-"MAM00674c":-1.0,
-"MAM00913c":1.0
+"MAM00674c":1.0,
+"MAM00913c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -123845,12 +123845,12 @@
 "id":"MAR04373",
 "name":"D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)",
 "metabolites":{
-"MAM00247c":-1.0,
-"MAM01939c":1.0,
-"MAM02039c":-1.0,
-"MAM02552c":1.0,
-"MAM02553c":-1.0,
-"MAM02751c":1.0
+"MAM00247c":1.0,
+"MAM01939c":-1.0,
+"MAM02039c":1.0,
+"MAM02552c":-1.0,
+"MAM02553c":1.0,
+"MAM02751c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -123874,9 +123874,9 @@
 "id":"MAR04375",
 "name":"D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)",
 "metabolites":{
-"MAM01690c":-1.0,
-"MAM01841c":1.0,
-"MAM01939c":-1.0
+"MAM01690c":1.0,
+"MAM01841c":-1.0,
+"MAM01939c":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -123930,8 +123930,8 @@
 "id":"MAR04381",
 "name":"D-glucose-6-phosphate aldose-ketose-isomerase",
 "metabolites":{
-"MAM01845c":-1.0,
-"MAM01968c":1.0
+"MAM01845c":1.0,
+"MAM01968c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -160592,11 +160592,11 @@
 "id":"MAR04141",
 "name":"(S)-malate:NAD+ oxidoreductase",
 "metabolites":{
-"MAM02039m":-1.0,
-"MAM02439m":1.0,
-"MAM02552m":1.0,
-"MAM02553m":-1.0,
-"MAM02633m":-1.0
+"MAM02039m":1.0,
+"MAM02439m":-1.0,
+"MAM02552m":-1.0,
+"MAM02553m":1.0,
+"MAM02633m":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -160859,9 +160859,9 @@
 "id":"MAR04458",
 "name":"citrate hydro-lyase (cis-aconitate-forming)",
 "metabolites":{
-"MAM01580m":-1.0,
-"MAM01587m":1.0,
-"MAM02040m":-1.0
+"MAM01580m":1.0,
+"MAM01587m":-1.0,
+"MAM02040m":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -160949,10 +160949,10 @@
 "id":"MAR04652",
 "name":"succinate:quinone oxidoreductase",
 "metabolites":{
-"MAM01862m":-1.0,
-"MAM02943m":1.0,
-"MAM03102m":-1.0,
-"MAM03103m":1.0
+"MAM01862m":1.0,
+"MAM02943m":-1.0,
+"MAM03102m":1.0,
+"MAM03103m":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -430596,7 +430596,7 @@
 },
 {
 "id":"MAR10023",
-"name":"",
+"name":"Transport of biomass",
 "metabolites":{
 "MAM03970c":-1.0,
 "MAM03970e":1.0
