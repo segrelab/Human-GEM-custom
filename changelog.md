@@ -18,10 +18,9 @@ Changes in version 1.21:
     - MAR20187: based on MAR09931 ("Biomass maintenance reaction without replication precursors", which includes precursors for protein and RNA synthesis). Modified to not produce biomass.
     - MAR20188: based on MAR09932 ("Biomass maintenance reaction without replication precursors", which only includes ATP and lipid precursors). Modified to not produce biomass.
 
-Planned changes for version 1.22:
-- Reverse annotated direction of reversible glycolysis reactions: PGI (MAR04381), aldolase (MAR03475), GADPH (MAR04373), PGM (MAR04365)
-- Reverse annotated direction of reversible TCA reactions: ACO (MAR04458), SDH (MAR04652), MDH (MAR04141)
-- Add proton leak / UCP1 reaction (set to 0 bounds by default)
+Changes in version 1.22:
+- Reversed annotated direction of reversible glycolysis reactions: PGI (MAR04381), aldolase (MAR04375), GADPH (MAR04373), PGM (MAR04365)
+- Reversed annotated direction of reversible TCA cycle reactions: ACO (MAR04458), SDH (MAR04652), MDH (MAR04141)
 
 Possible changes to implement in later versions:
 - Removal/functional KO of MAR04280 (mitochondrial LDH reaction)
