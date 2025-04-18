@@ -18,3 +18,6 @@ echo "Generating new reaction table"
 
 echo "Generating new metabolite table"
 ./Scripts/getMetaboliteData.py $XML $METABOLITES
+
+echo "Generating new R data file"
+Rscript R/GEM_analysis.R
