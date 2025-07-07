@@ -31956,7 +31956,7 @@
 },
 {
 "id":"MAM01373c",
-"name":"behenic acid",
+"name":"behenate",
 "compartment":"c",
 "charge":-1,
 "formula":"C22H43O2",
@@ -31976,7 +31976,7 @@
 },
 {
 "id":"MAM01373l",
-"name":"behenic acid",
+"name":"behenate",
 "compartment":"l",
 "charge":-1,
 "formula":"C22H43O2",
@@ -31996,7 +31996,7 @@
 },
 {
 "id":"MAM01373r",
-"name":"behenic acid",
+"name":"behenate",
 "compartment":"r",
 "charge":-1,
 "formula":"C22H43O2",
@@ -32016,7 +32016,7 @@
 },
 {
 "id":"MAM01373e",
-"name":"behenic acid",
+"name":"behenate",
 "compartment":"e",
 "charge":-1,
 "formula":"C22H43O2",
@@ -40118,7 +40118,7 @@
 },
 {
 "id":"MAM01648c",
-"name":"decanoic acid",
+"name":"caprate",
 "compartment":"c",
 "charge":-1,
 "formula":"C10H19O2",
@@ -40138,7 +40138,7 @@
 },
 {
 "id":"MAM01648e",
-"name":"decanoic acid",
+"name":"caprate",
 "compartment":"e",
 "charge":-1,
 "formula":"C10H19O2",
@@ -40171,7 +40171,7 @@
 },
 {
 "id":"MAM01650c",
-"name":"decanoyl-CoA",
+"name":"capryl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C31H50N7O17P3S",
@@ -40192,7 +40192,7 @@
 },
 {
 "id":"MAM01650m",
-"name":"decanoyl-CoA",
+"name":"capryl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H50N7O17P3S",
@@ -40213,7 +40213,7 @@
 },
 {
 "id":"MAM01650x",
-"name":"decanoyl-CoA",
+"name":"capryl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C31H50N7O17P3S",
@@ -42675,7 +42675,7 @@
 },
 {
 "id":"MAM01724c",
-"name":"docosanoylcarnitine",
+"name":"behenylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C29H57NO4",
@@ -42687,7 +42687,7 @@
 },
 {
 "id":"MAM01724m",
-"name":"docosanoylcarnitine",
+"name":"behenylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C29H57NO4",
@@ -42699,7 +42699,7 @@
 },
 {
 "id":"MAM01724r",
-"name":"docosanoylcarnitine",
+"name":"behenylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C29H57NO4",
@@ -42711,7 +42711,7 @@
 },
 {
 "id":"MAM01725c",
-"name":"docosanoyl-CoA",
+"name":"behenyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C43H74N7O17P3S",
@@ -42727,7 +42727,7 @@
 },
 {
 "id":"MAM01725m",
-"name":"docosanoyl-CoA",
+"name":"behenyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H74N7O17P3S",
@@ -42743,7 +42743,7 @@
 },
 {
 "id":"MAM01725x",
-"name":"docosanoyl-CoA",
+"name":"behenyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C43H74N7O17P3S",
@@ -42759,7 +42759,7 @@
 },
 {
 "id":"MAM01725r",
-"name":"docosanoyl-CoA",
+"name":"behenyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C43H74N7O17P3S",
@@ -42858,7 +42858,7 @@
 },
 {
 "id":"MAM01729c",
-"name":"dodecanoylcarnitine",
+"name":"lauroylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C19H37NO4",
@@ -42875,7 +42875,7 @@
 },
 {
 "id":"MAM01729m",
-"name":"dodecanoylcarnitine",
+"name":"lauroylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C19H37NO4",
@@ -42892,7 +42892,7 @@
 },
 {
 "id":"MAM01729r",
-"name":"dodecanoylcarnitine",
+"name":"lauroylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C19H37NO4",
@@ -44237,7 +44237,7 @@
 },
 {
 "id":"MAM01771c",
-"name":"eicosanoate",
+"name":"arachidate",
 "compartment":"c",
 "charge":-1,
 "formula":"C20H39O2",
@@ -44255,7 +44255,7 @@
 },
 {
 "id":"MAM01771l",
-"name":"eicosanoate",
+"name":"arachidate",
 "compartment":"l",
 "charge":-1,
 "formula":"C20H39O2",
@@ -44273,7 +44273,7 @@
 },
 {
 "id":"MAM01771r",
-"name":"eicosanoate",
+"name":"arachidate",
 "compartment":"r",
 "charge":-1,
 "formula":"C20H39O2",
@@ -44291,7 +44291,7 @@
 },
 {
 "id":"MAM01771e",
-"name":"eicosanoate",
+"name":"arachidate",
 "compartment":"e",
 "charge":-1,
 "formula":"C20H39O2",
@@ -44309,7 +44309,7 @@
 },
 {
 "id":"MAM01772c",
-"name":"eicosanoylcarnitine",
+"name":"arachidylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C27H53NO4",
@@ -44323,7 +44323,7 @@
 },
 {
 "id":"MAM01772m",
-"name":"eicosanoylcarnitine",
+"name":"arachidylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C27H53NO4",
@@ -44337,7 +44337,7 @@
 },
 {
 "id":"MAM01772r",
-"name":"eicosanoylcarnitine",
+"name":"arachidylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C27H53NO4",
@@ -44351,7 +44351,7 @@
 },
 {
 "id":"MAM01773c",
-"name":"eicosanoyl-CoA",
+"name":"arachidyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -44372,7 +44372,7 @@
 },
 {
 "id":"MAM01773m",
-"name":"eicosanoyl-CoA",
+"name":"arachidyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -44393,7 +44393,7 @@
 },
 {
 "id":"MAM01773x",
-"name":"eicosanoyl-CoA",
+"name":"arachidyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -44414,7 +44414,7 @@
 },
 {
 "id":"MAM01773r",
-"name":"eicosanoyl-CoA",
+"name":"arachidyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -54185,7 +54185,7 @@
 },
 {
 "id":"MAM02120c",
-"name":"hexanoic acid",
+"name":"caproate",
 "compartment":"c",
 "charge":-1,
 "formula":"C6H11O2",
@@ -54205,7 +54205,7 @@
 },
 {
 "id":"MAM02120e",
-"name":"hexanoic acid",
+"name":"caproate",
 "compartment":"e",
 "charge":-1,
 "formula":"C6H11O2",
@@ -54225,7 +54225,7 @@
 },
 {
 "id":"MAM02120x",
-"name":"hexanoic acid",
+"name":"caproate",
 "compartment":"x",
 "charge":-1,
 "formula":"C6H11O2",
@@ -54245,7 +54245,7 @@
 },
 {
 "id":"MAM02120m",
-"name":"hexanoic acid",
+"name":"caproate",
 "compartment":"m",
 "charge":-1,
 "formula":"C6H11O2",
@@ -54278,7 +54278,7 @@
 },
 {
 "id":"MAM02122c",
-"name":"hexanoyl-CoA",
+"name":"caproyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C27H42N7O17P3S",
@@ -54298,7 +54298,7 @@
 },
 {
 "id":"MAM02122m",
-"name":"hexanoyl-CoA",
+"name":"caproyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C27H42N7O17P3S",
@@ -54318,7 +54318,7 @@
 },
 {
 "id":"MAM02122x",
-"name":"hexanoyl-CoA",
+"name":"caproyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C27H42N7O17P3S",
@@ -58833,7 +58833,7 @@
 },
 {
 "id":"MAM02344c",
-"name":"lauric acid",
+"name":"laurate",
 "compartment":"c",
 "charge":-1,
 "formula":"C12H23O2",
@@ -58854,7 +58854,7 @@
 },
 {
 "id":"MAM02344l",
-"name":"lauric acid",
+"name":"laurate",
 "compartment":"l",
 "charge":-1,
 "formula":"C12H23O2",
@@ -58875,7 +58875,7 @@
 },
 {
 "id":"MAM02344r",
-"name":"lauric acid",
+"name":"laurate",
 "compartment":"r",
 "charge":-1,
 "formula":"C12H23O2",
@@ -58896,7 +58896,7 @@
 },
 {
 "id":"MAM02344e",
-"name":"lauric acid",
+"name":"laurate",
 "compartment":"e",
 "charge":-1,
 "formula":"C12H23O2",
@@ -61124,7 +61124,7 @@
 },
 {
 "id":"MAM02409c",
-"name":"L-octanoylcarnitine",
+"name":"capryloylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C15H29NO4",
@@ -61145,7 +61145,7 @@
 },
 {
 "id":"MAM02409m",
-"name":"L-octanoylcarnitine",
+"name":"capryloylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C15H29NO4",
@@ -61166,7 +61166,7 @@
 },
 {
 "id":"MAM02409x",
-"name":"L-octanoylcarnitine",
+"name":"capryloylcarnitine",
 "compartment":"x",
 "charge":0,
 "formula":"C15H29NO4",
@@ -61220,7 +61220,7 @@
 },
 {
 "id":"MAM02411c",
-"name":"L-palmitoylcarnitine",
+"name":"palmitoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C23H45NO4",
@@ -61242,7 +61242,7 @@
 },
 {
 "id":"MAM02411m",
-"name":"L-palmitoylcarnitine",
+"name":"palmitoylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C23H45NO4",
@@ -61264,7 +61264,7 @@
 },
 {
 "id":"MAM02411r",
-"name":"L-palmitoylcarnitine",
+"name":"palmitoylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C23H45NO4",
@@ -63503,7 +63503,7 @@
 },
 {
 "id":"MAM02494c",
-"name":"myristic acid",
+"name":"myristate",
 "compartment":"c",
 "charge":-1,
 "formula":"C14H27O2",
@@ -63524,7 +63524,7 @@
 },
 {
 "id":"MAM02494l",
-"name":"myristic acid",
+"name":"myristate",
 "compartment":"l",
 "charge":-1,
 "formula":"C14H27O2",
@@ -63545,7 +63545,7 @@
 },
 {
 "id":"MAM02494r",
-"name":"myristic acid",
+"name":"myristate",
 "compartment":"r",
 "charge":-1,
 "formula":"C14H27O2",
@@ -63566,7 +63566,7 @@
 },
 {
 "id":"MAM02494e",
-"name":"myristic acid",
+"name":"myristate",
 "compartment":"e",
 "charge":-1,
 "formula":"C14H27O2",
@@ -67333,7 +67333,7 @@
 },
 {
 "id":"MAM02635c",
-"name":"O-butanoylcarnitine",
+"name":"butyrylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C11H21NO4",
@@ -67350,7 +67350,7 @@
 },
 {
 "id":"MAM02635m",
-"name":"O-butanoylcarnitine",
+"name":"butyrylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C11H21NO4",
@@ -67592,7 +67592,7 @@
 },
 {
 "id":"MAM02642c",
-"name":"octanoic acid",
+"name":"caprylate",
 "compartment":"c",
 "charge":-1,
 "formula":"C8H15O2",
@@ -67610,7 +67610,7 @@
 },
 {
 "id":"MAM02642e",
-"name":"octanoic acid",
+"name":"caprylate",
 "compartment":"e",
 "charge":-1,
 "formula":"C8H15O2",
@@ -67641,7 +67641,7 @@
 },
 {
 "id":"MAM02644c",
-"name":"octanoyl-CoA",
+"name":"capryloyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C29H46N7O17P3S",
@@ -67658,7 +67658,7 @@
 },
 {
 "id":"MAM02644m",
-"name":"octanoyl-CoA",
+"name":"capryloyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C29H46N7O17P3S",
@@ -67675,7 +67675,7 @@
 },
 {
 "id":"MAM02644x",
-"name":"octanoyl-CoA",
+"name":"capryloyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C29H46N7O17P3S",
@@ -77651,7 +77651,7 @@
 },
 {
 "id":"MAM02973c",
-"name":"tetradecanoylcarnitine",
+"name":"myristoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C21H41NO4",
@@ -77668,7 +77668,7 @@
 },
 {
 "id":"MAM02973m",
-"name":"tetradecanoylcarnitine",
+"name":"myristoylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C21H41NO4",
@@ -77685,7 +77685,7 @@
 },
 {
 "id":"MAM02973r",
-"name":"tetradecanoylcarnitine",
+"name":"myristoylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C21H41NO4",
@@ -77702,7 +77702,7 @@
 },
 {
 "id":"MAM02974c",
-"name":"tetradecenoylcarnitine(5)",
+"name":"(9E)-tetradecenoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C21H39NO4",
@@ -77714,7 +77714,7 @@
 },
 {
 "id":"MAM02974m",
-"name":"tetradecenoylcarnitine(5)",
+"name":"(9E)-tetradecenoylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C21H39NO4",
@@ -77726,7 +77726,7 @@
 },
 {
 "id":"MAM02974r",
-"name":"tetradecenoylcarnitine(5)",
+"name":"(9E)-tetradecenoylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C21H39NO4",
@@ -77738,7 +77738,7 @@
 },
 {
 "id":"MAM02975c",
-"name":"tetradecenoylcarnitine(7)",
+"name":"(7Z)-tetradecenoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C21H39NO4",
@@ -77749,7 +77749,7 @@
 },
 {
 "id":"MAM02975m",
-"name":"tetradecenoylcarnitine(7)",
+"name":"(7Z)-tetradecenoylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C21H39NO4",
@@ -77760,7 +77760,7 @@
 },
 {
 "id":"MAM02975r",
-"name":"tetradecenoylcarnitine(7)",
+"name":"(7Z)-tetradecenoylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C21H39NO4",
@@ -86800,7 +86800,7 @@
 },
 {
 "id":"MAM02411x",
-"name":"L-palmitoylcarnitine",
+"name":"palmitoylcarnitine",
 "compartment":"x",
 "charge":0,
 "formula":"C23H45NO4",
@@ -87327,7 +87327,7 @@
 },
 {
 "id":"MAM01773e",
-"name":"eicosanoyl-CoA",
+"name":"arachidyl-CoA",
 "compartment":"e",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -87373,7 +87373,7 @@
 },
 {
 "id":"MAM01725n",
-"name":"docosanoyl-CoA",
+"name":"behenyl-CoA",
 "compartment":"n",
 "charge":-4,
 "formula":"C43H74N7O17P3S",
@@ -87420,7 +87420,7 @@
 },
 {
 "id":"MAM01771m",
-"name":"eicosanoate",
+"name":"arachidate",
 "compartment":"m",
 "charge":-1,
 "formula":"C20H39O2",
@@ -87438,7 +87438,7 @@
 },
 {
 "id":"MAM01771x",
-"name":"eicosanoate",
+"name":"arachidate",
 "compartment":"x",
 "charge":-1,
 "formula":"C20H39O2",
@@ -87456,7 +87456,7 @@
 },
 {
 "id":"MAM01373m",
-"name":"behenic acid",
+"name":"behenate",
 "compartment":"m",
 "charge":-1,
 "formula":"C22H43O2",
@@ -87476,7 +87476,7 @@
 },
 {
 "id":"MAM01373x",
-"name":"behenic acid",
+"name":"behenate",
 "compartment":"x",
 "charge":-1,
 "formula":"C22H43O2",
@@ -94389,7 +94389,7 @@
 },
 {
 "id":"MAM02635e",
-"name":"O-butanoylcarnitine",
+"name":"butyrylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C11H21NO4",
@@ -94445,7 +94445,7 @@
 },
 {
 "id":"MAM02635x",
-"name":"O-butanoylcarnitine",
+"name":"butyrylcarnitine",
 "compartment":"x",
 "charge":0,
 "formula":"C11H21NO4",
@@ -94646,7 +94646,7 @@
 },
 {
 "id":"MAM02409e",
-"name":"L-octanoylcarnitine",
+"name":"capryloylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C15H29NO4",
@@ -94707,7 +94707,7 @@
 },
 {
 "id":"MAM01648r",
-"name":"decanoic acid",
+"name":"caprate",
 "compartment":"r",
 "charge":-1,
 "formula":"C10H19O2",
@@ -96268,7 +96268,7 @@
 },
 {
 "id":"MAM02974e",
-"name":"tetradecenoylcarnitine(5)",
+"name":"(9E)-tetradecenoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C21H39NO4",
@@ -97900,7 +97900,7 @@
 },
 {
 "id":"MAM02411e",
-"name":"L-palmitoylcarnitine",
+"name":"palmitoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C23H45NO4",
@@ -101276,7 +101276,7 @@
 },
 {
 "id":"MAM02122e",
-"name":"hexanoyl-CoA",
+"name":"caproyl-CoA",
 "compartment":"e",
 "charge":-4,
 "formula":"C27H42N7O17P3S",
@@ -121762,7 +121762,7 @@
 },
 {
 "id":"MAM02344i",
-"name":"lauric acid",
+"name":"laurate",
 "compartment":"i",
 "charge":-1,
 "formula":"C12H23O2",
@@ -121810,7 +121810,7 @@
 },
 {
 "id":"MAM02494i",
-"name":"myristic acid",
+"name":"myristate",
 "compartment":"i",
 "charge":-1,
 "formula":"C14H27O2",
@@ -122220,7 +122220,7 @@
 },
 {
 "id":"MAM02642r",
-"name":"octanoic acid",
+"name":"caprylate",
 "compartment":"r",
 "charge":-1,
 "formula":"C8H15O2",
@@ -123109,7 +123109,7 @@
 },
 {
 "id":"MAM01729e",
-"name":"dodecanoylcarnitine",
+"name":"lauroylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C19H37NO4",
@@ -161891,7 +161891,7 @@
 },
 {
 "id":"MAR00156",
-"name":"Butanoate:CoA ligase (AMP-forming)",
+"name":"Butyryl-CoA ligase (AMP-forming)",
 "metabolites":{
 "MAM01334c":1.0,
 "MAM01371c":-1.0,
@@ -181117,7 +181117,7 @@
 },
 {
 "id":"MAR00284",
-"name":"Eicosanoyl-CoA hydrolase",
+"name":"Arachidyl-CoA hydrolase",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM01771c":1.0,
@@ -181287,7 +181287,7 @@
 },
 {
 "id":"MAR00314",
-"name":"Docosanoyl-CoA hydrolase",
+"name":"Behenyl-CoA hydrolase",
 "metabolites":{
 "MAM01373c":1.0,
 "MAM01597c":1.0,
@@ -316104,7 +316104,7 @@
 },
 {
 "id":"MAR09811",
-"name":"Exchange of hexanoic acid",
+"name":"Exchange of caproate",
 "metabolites":{
 "MAM02120e":-1.0
 },
@@ -316140,7 +316140,7 @@
 },
 {
 "id":"MAR09813",
-"name":"Exchange of octanoic acid",
+"name":"Exchange of caprylate",
 "metabolites":{
 "MAM02642e":-1.0
 },
@@ -316176,7 +316176,7 @@
 },
 {
 "id":"MAR09815",
-"name":"Exchange of decanoic acid",
+"name":"Exchange of caprate",
 "metabolites":{
 "MAM01648e":-1.0
 },
@@ -326383,7 +326383,7 @@
 },
 {
 "id":"MAR00102",
-"name":"C160 Transport into the Mitochondria",
+"name":"C16:0 Transport into the Mitochondria",
 "metabolites":{
 "MAM02411c":-1.0,
 "MAM02411m":1.0
@@ -326429,7 +326429,7 @@
 },
 {
 "id":"MAR00104",
-"name":"C161 Transport into the Mitochondria",
+"name":"C16:1 Transport into the Mitochondria",
 "metabolites":{
 "MAM00051m":1.0,
 "MAM01597m":-1.0,
@@ -326453,7 +326453,7 @@
 },
 {
 "id":"MAR00105",
-"name":"C161 Transport into the Mitochondria",
+"name":"C16:1 Transport into the Mitochondria",
 "metabolites":{
 "MAM02117c":-1.0,
 "MAM02117m":1.0
@@ -326475,7 +326475,7 @@
 },
 {
 "id":"MAR00106",
-"name":"C161 Transport into the Mitochondria",
+"name":"C16:1 Transport into the Mitochondria",
 "metabolites":{
 "MAM02676c":-1.0,
 "MAM02676m":1.0
@@ -326497,7 +326497,7 @@
 },
 {
 "id":"MAR00107",
-"name":"C180 Transport into the Mitochondria",
+"name":"C18:0 Transport into the Mitochondria",
 "metabolites":{
 "MAM02940c":-1.0,
 "MAM02940m":1.0
@@ -326569,7 +326569,7 @@
 },
 {
 "id":"MAR00110",
-"name":"C181 Transport into the Mitochondria",
+"name":"C18:1 Transport into the Mitochondria",
 "metabolites":{
 "MAM02639c":-1.0,
 "MAM02639m":1.0
@@ -326614,7 +326614,7 @@
 },
 {
 "id":"MAR00112",
-"name":"C226 Transport into the Mitochondria",
+"name":"C22:6 Transport into the Mitochondria",
 "metabolites":{
 "MAM01723c":-1.0,
 "MAM01723m":1.0
@@ -328565,7 +328565,7 @@
 },
 {
 "id":"MAR00567",
-"name":"Exchange of eicosanoate",
+"name":"Exchange of arachidate",
 "metabolites":{
 "MAM01771e":-1.0
 },
@@ -329488,7 +329488,7 @@
 },
 {
 "id":"MAR00702",
-"name":"Exchange of myristic acid",
+"name":"Exchange of myristate",
 "metabolites":{
 "MAM02494e":-1.0
 },
@@ -330105,7 +330105,7 @@
 },
 {
 "id":"MAR00756",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Complete Beta Oxidation of Palmitoyl-CoA",
 "metabolites":{
 "MAM01261m":8.0,
 "MAM01597m":-7.0,
@@ -330135,7 +330135,7 @@
 },
 {
 "id":"MAR00757",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Beta Oxidation of Palmitoyl-CoA to Capryloyl-CoA",
 "metabolites":{
 "MAM01261m":4.0,
 "MAM01597m":-4.0,
@@ -330286,7 +330286,7 @@
 },
 {
 "id":"MAR00776",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Fatty Acid Beta Oxidation (C18->C16), Mitochondrial",
 "metabolites":{
 "MAM01261m":1.0,
 "MAM01597m":-1.0,
@@ -330617,7 +330617,7 @@
 },
 {
 "id":"MAR00869",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Fatty Acid Beta Oxidation (C20->C18), Mitochondrial",
 "metabolites":{
 "MAM01261m":1.0,
 "MAM01597m":-1.0,
@@ -350573,7 +350573,7 @@
 },
 {
 "id":"MAR04247",
-"name":"Exchange of eicosanoyl-CoA",
+"name":"Exchange of arachidyl-CoA",
 "metabolites":{
 "MAM01773e":-1.0
 },
@@ -351771,7 +351771,7 @@
 },
 {
 "id":"MAR04504",
-"name":"Production of 3-Ohdecanoylcarnitinec",
+"name":"Production of 3-Ohdecanoylcarnitine",
 "metabolites":{
 "MAM00181c":-1.0,
 "MAM01597c":1.0,
@@ -351888,7 +351888,7 @@
 },
 {
 "id":"MAR04522",
-"name":"Production of 3-Ohdodecanoylcarnitinec",
+"name":"Production of 3-Hydroxydodecanoylcarnitine",
 "metabolites":{
 "MAM00174c":-1.0,
 "MAM01597c":1.0,
@@ -352161,7 +352161,7 @@
 },
 {
 "id":"MAR04634",
-"name":"Production of 3-Hydroxyhexadecanoylcarnitinec",
+"name":"Production of 3-Hydroxyhexadecanoylcarnitine",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02348c":-1.0,
@@ -352185,7 +352185,7 @@
 },
 {
 "id":"MAR04636",
-"name":"Production of 3-Hydroxyoctadecenoylcarnitinec",
+"name":"Production of 3-Hydroxyoctadecenoylcarnitine",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02348c":-1.0,
@@ -352298,7 +352298,7 @@
 },
 {
 "id":"MAR04671",
-"name":"Production of 3-Hydroxybytyryl Carnitinec",
+"name":"Production of 3-Hydroxybutyryl Carnitine",
 "metabolites":{
 "MAM00159c":-1.0,
 "MAM01597c":1.0,
@@ -352322,7 +352322,7 @@
 },
 {
 "id":"MAR04674",
-"name":"Transport of Bytyrylcarnitine from Peroxisomes",
+"name":"Transport of Butyrylcarnitine from Peroxisomes",
 "metabolites":{
 "MAM02635c":1.0,
 "MAM02635x":-1.0
@@ -352343,7 +352343,7 @@
 },
 {
 "id":"MAR04677",
-"name":"Transport of Bytyrylcarnitine into Mitochondrial Matrix",
+"name":"Transport of Butyrylcarnitine into Mitochondrial Matrix",
 "metabolites":{
 "MAM02635c":-1.0,
 "MAM02635m":1.0
@@ -352760,7 +352760,7 @@
 },
 {
 "id":"MAR04811",
-"name":"Transport of Behenoylcoa into Peroxisomes",
+"name":"Transport of Behenyl-CoA into Peroxisomes",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -353175,7 +353175,7 @@
 },
 {
 "id":"MAR04889",
-"name":"Exchange of O-butanoylcarnitine",
+"name":"Exchange of butyrylcarnitine",
 "metabolites":{
 "MAM02635e":-1.0
 },
@@ -353312,7 +353312,7 @@
 },
 {
 "id":"MAR04918",
-"name":"Exchange of L-octanoylcarnitine",
+"name":"Exchange of capryloylcarnitine",
 "metabolites":{
 "MAM02409e":-1.0
 },
@@ -353371,7 +353371,7 @@
 },
 {
 "id":"MAR04923",
-"name":"Exchange of dodecanoylcarnitine",
+"name":"Exchange of lauroylcarnitine",
 "metabolites":{
 "MAM01729e":-1.0
 },
@@ -353428,7 +353428,7 @@
 },
 {
 "id":"MAR04929",
-"name":"Exchange of behenic acid",
+"name":"Exchange of behenate",
 "metabolites":{
 "MAM01373e":-1.0
 },
@@ -359202,7 +359202,7 @@
 },
 {
 "id":"MAR07157",
-"name":"Transport of Hexadecanoate",
+"name":"Uptake of Palmitate",
 "metabolites":{
 "MAM01334c":1.0,
 "MAM01371c":-1.0,
@@ -361255,7 +361255,7 @@
 },
 {
 "id":"MAR08983",
-"name":"Uptake of Octadecanoate (N-C18:0)",
+"name":"Uptake of Stearate",
 "metabolites":{
 "MAM01334c":1.0,
 "MAM01371c":-1.0,
@@ -361483,7 +361483,7 @@
 },
 {
 "id":"MAR08996",
-"name":"Uptake of Hexadecanoate",
+"name":"Uptake of Myristate",
 "metabolites":{
 "MAM01334c":1.0,
 "MAM01371c":-1.0,
@@ -364506,7 +364506,7 @@
 },
 {
 "id":"MAR09917",
-"name":"Transport of L-Palmitoylcarnitine",
+"name":"Transport of Palmitoylcarnitine",
 "metabolites":{
 "MAM02411c":-1.0,
 "MAM02411e":1.0,
@@ -364664,7 +364664,7 @@
 },
 {
 "id":"MAR09925",
-"name":"Exchange of L-palmitoylcarnitine",
+"name":"Exchange of palmitoylcarnitine",
 "metabolites":{
 "MAM02411e":-1.0
 },
@@ -369333,7 +369333,7 @@
 },
 {
 "id":"MAR10250",
-"name":"Exchange of hexanoyl-CoA",
+"name":"Exchange of caproyl-CoA",
 "metabolites":{
 "MAM02122e":-1.0
 },
@@ -371138,7 +371138,7 @@
 },
 {
 "id":"MAR10345",
-"name":"Exchange of tetradecenoylcarnitine(5)",
+"name":"Exchange of (9E)-tetradecenoylcarnitine",
 "metabolites":{
 "MAM02974e":-1.0
 },
@@ -371793,7 +371793,7 @@
 },
 {
 "id":"MAR10375",
-"name":"Transport of Hexanoate, Cytosol",
+"name":"Transport of Caproate, Cytosol",
 "metabolites":{
 "MAM02122c":-1.0,
 "MAM02122e":1.0
@@ -371813,7 +371813,7 @@
 },
 {
 "id":"MAR10376",
-"name":"Transport of Hexanoate, Peroxisome",
+"name":"Transport of Caproate, Peroxisome",
 "metabolites":{
 "MAM02122c":1.0,
 "MAM02122x":-1.0
@@ -373030,7 +373030,7 @@
 },
 {
 "id":"MAR10434",
-"name":"Exchange of lauric acid",
+"name":"Exchange of laurate",
 "metabolites":{
 "MAM02344e":-1.0
 },
@@ -390676,7 +390676,7 @@
 },
 {
 "id":"MAR11264",
-"name":"Transport of Octanoyl Carnitine",
+"name":"Transport of Capryloylcarnitine",
 "metabolites":{
 "MAM02409c":1.0,
 "MAM02409e":-1.0
@@ -390883,7 +390883,7 @@
 },
 {
 "id":"MAR11276",
-"name":"Transport of L-Palmitoylcarnitine",
+"name":"Transport of Palmitoylcarnitine",
 "metabolites":{
 "MAM02411c":1.0,
 "MAM02411e":-1.0
@@ -391174,7 +391174,7 @@
 },
 {
 "id":"MAR11290",
-"name":"Transport of Hexanoate (N-C6:0), Mitochondrial",
+"name":"Transport of Caproate, Mitochondrial",
 "metabolites":{
 "MAM02120c":1.0,
 "MAM02120m":-1.0
@@ -391194,7 +391194,7 @@
 },
 {
 "id":"MAR11291",
-"name":"Transport of Hexanoate (N-C6:0), Peroxisome",
+"name":"Transport of Caproate, Peroxisome",
 "metabolites":{
 "MAM02120c":1.0,
 "MAM02120x":-1.0
@@ -437277,7 +437277,7 @@
 },
 {
 "id":"MAR20171",
-"name":"Decanoyl-CoA hydrolase",
+"name":"Capryl-CoA hydrolase",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM01648c":1.0,
