@@ -330118,7 +330118,7 @@
 "MAM02678m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 or ENSG00000122971",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -330149,7 +330149,7 @@
 "MAM02678m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 or ENSG00000122971",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -330300,7 +330300,7 @@
 "MAM02941m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 or ENSG00000122971",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -330631,7 +330631,7 @@
 "MAM02941m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 or ENSG00000122971",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -337793,11 +337793,11 @@
 "id":"MAR02207",
 "name":"Trans-Hex-2-Enoyl Coenzyme A Reductase",
 "metabolites":{
-"MAM00053m":-1.0,
-"MAM02039m":-1.0,
-"MAM02122m":1.0,
-"MAM02554m":1.0,
-"MAM02555m":-1.0
+"MAM00053m":1.0,
+"MAM02039m":1.0,
+"MAM02122m":-1.0,
+"MAM02554m":-1.0,
+"MAM02555m":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -353537,7 +353537,7 @@
 "MAM02644x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353588,7 +353588,7 @@
 "MAM03035x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000242612",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353611,7 +353611,7 @@
 "MAM03545m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353640,7 +353640,7 @@
 "MAM03545x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353667,7 +353667,7 @@
 "MAM03794m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353700,7 +353700,7 @@
 "MAM03794x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353772,7 +353772,7 @@
 "MAM03545m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000104325",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353802,7 +353802,7 @@
 "MAM03545x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000242612",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353831,7 +353831,7 @@
 "MAM02644x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353861,7 +353861,7 @@
 "MAM03924x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353890,7 +353890,7 @@
 "MAM04004x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000087008 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353919,7 +353919,7 @@
 "MAM03116m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -353948,7 +353948,7 @@
 "MAM03539m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354023,7 +354023,7 @@
 "MAM03542m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354056,7 +354056,7 @@
 "MAM03542x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354133,7 +354133,7 @@
 "MAM02553m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354163,7 +354163,7 @@
 "MAM02553x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354188,7 +354188,7 @@
 "MAM02345m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354217,7 +354217,7 @@
 "MAM03924x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354313,7 +354313,7 @@
 "MAM04004x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000087008 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354342,7 +354342,7 @@
 "MAM03116m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354371,7 +354371,7 @@
 "MAM03972m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354424,7 +354424,7 @@
 "MAM03972m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354453,7 +354453,7 @@
 "MAM03978x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354477,7 +354477,7 @@
 "MAM04041m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354506,7 +354506,7 @@
 "MAM03288m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354541,7 +354541,7 @@
 "MAM03288x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354570,7 +354570,7 @@
 "MAM02553m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354600,7 +354600,7 @@
 "MAM02553x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354625,7 +354625,7 @@
 "MAM02495m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354654,7 +354654,7 @@
 "MAM03492x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354709,7 +354709,7 @@
 "MAM03887x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000087008 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354738,7 +354738,7 @@
 "MAM03050m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354767,7 +354767,7 @@
 "MAM03972m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354844,7 +354844,7 @@
 "MAM03982m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354871,7 +354871,7 @@
 "MAM03978x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354900,7 +354900,7 @@
 "MAM03658m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354929,7 +354929,7 @@
 "MAM03653x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -354977,7 +354977,7 @@
 "MAM03288m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355004,7 +355004,7 @@
 "MAM03288x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355028,7 +355028,7 @@
 "MAM03653x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000242612",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355051,7 +355051,7 @@
 "MAM03656m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355074,7 +355074,7 @@
 "MAM03656x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355140,7 +355140,7 @@
 "MAM03656m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000104325",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355164,7 +355164,7 @@
 "MAM03656x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000242612",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355193,7 +355193,7 @@
 "MAM02678m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355223,7 +355223,7 @@
 "MAM02678x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355248,7 +355248,7 @@
 "MAM03218m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355277,7 +355277,7 @@
 "MAM03655x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355357,7 +355357,7 @@
 "MAM02689m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355387,7 +355387,7 @@
 "MAM03791m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355440,7 +355440,7 @@
 "MAM03792m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355464,7 +355464,7 @@
 "MAM03249m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355493,7 +355493,7 @@
 "MAM03658m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355526,7 +355526,7 @@
 "MAM03194m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355556,7 +355556,7 @@
 "MAM03274x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355585,7 +355585,7 @@
 "MAM03273m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355614,7 +355614,7 @@
 "MAM03273x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355686,7 +355686,7 @@
 "MAM03273m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355731,7 +355731,7 @@
 "MAM03230m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355789,7 +355789,7 @@
 "MAM03571m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355815,7 +355815,7 @@
 "MAM03571x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355842,7 +355842,7 @@
 "MAM03570x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355871,7 +355871,7 @@
 "MAM03284m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355900,7 +355900,7 @@
 "MAM03567x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355927,7 +355927,7 @@
 "MAM03571m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355957,7 +355957,7 @@
 "MAM03571x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -355980,7 +355980,7 @@
 "MAM03557m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356006,7 +356006,7 @@
 "MAM03557x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356079,7 +356079,7 @@
 "MAM03284m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778 and ENSG00000084754 and ENSG00000138029",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356103,7 +356103,7 @@
 "MAM03557m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000104325",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356130,7 +356130,7 @@
 "MAM03557x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000242612",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356153,7 +356153,7 @@
 "MAM03556m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000072778",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356198,7 +356198,7 @@
 "MAM03559m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000104325",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356227,7 +356227,7 @@
 "MAM02553x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356307,7 +356307,7 @@
 "MAM03555x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356336,7 +356336,7 @@
 "MAM02971x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356388,7 +356388,7 @@
 "MAM02774m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000122971 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356435,7 +356435,7 @@
 "MAM03242m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000148090",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356490,7 +356490,7 @@
 "MAM02553x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356567,7 +356567,7 @@
 "MAM02553x":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356596,7 +356596,7 @@
 "MAM03409x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356625,7 +356625,7 @@
 "MAM02694m":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356654,7 +356654,7 @@
 "MAM03794m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356689,7 +356689,7 @@
 "MAM03794x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356718,7 +356718,7 @@
 "MAM02644x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356747,7 +356747,7 @@
 "MAM03922x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835 and ENSG00000161533",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356776,7 +356776,7 @@
 "MAM03554m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -356804,7 +356804,7 @@
 "MAM02616m":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000117054 and ENSG00000127884 and ENSG00000138796 and ENSG00000167315",
 "subsystem":"Fatty acid oxidation",
 "notes":{
@@ -357116,7 +357116,7 @@
 "MAM02698x":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000060971 and ENSG00000113790 and ENSG00000133835",
 "subsystem":"Fatty acid oxidation",
 "notes":{
