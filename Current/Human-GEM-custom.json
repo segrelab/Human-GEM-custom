@@ -53794,7 +53794,7 @@
 },
 {
 "id":"MAM02109c",
-"name":"hexacosanoylcarnitine",
+"name":"cerotylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C33H65NO4",
@@ -53812,7 +53812,7 @@
 },
 {
 "id":"MAM02109r",
-"name":"hexacosanoylcarnitine",
+"name":"cerotylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C33H65NO4",
@@ -53830,7 +53830,7 @@
 },
 {
 "id":"MAM02110c",
-"name":"hexacosanoyl-CoA",
+"name":"cerotyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C47H82N7O17P3S",
@@ -53848,7 +53848,7 @@
 },
 {
 "id":"MAM02110x",
-"name":"hexacosanoyl-CoA",
+"name":"cerotyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C47H82N7O17P3S",
@@ -53866,7 +53866,7 @@
 },
 {
 "id":"MAM02110r",
-"name":"hexacosanoyl-CoA",
+"name":"cerotyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C47H82N7O17P3S",
@@ -77548,7 +77548,7 @@
 },
 {
 "id":"MAM02970c",
-"name":"tetracosanoylcarnitine",
+"name":"lignocerylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C31H61NO4",
@@ -77561,7 +77561,7 @@
 },
 {
 "id":"MAM02970r",
-"name":"tetracosanoylcarnitine",
+"name":"lignocerylcarnitine",
 "compartment":"r",
 "charge":0,
 "formula":"C31H61NO4",
@@ -77574,7 +77574,7 @@
 },
 {
 "id":"MAM02971c",
-"name":"tetracosanoyl-CoA",
+"name":"lignoceryl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C45H78N7O17P3S",
@@ -77595,7 +77595,7 @@
 },
 {
 "id":"MAM02971x",
-"name":"tetracosanoyl-CoA",
+"name":"lignoceryl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C45H78N7O17P3S",
@@ -77616,7 +77616,7 @@
 },
 {
 "id":"MAM02971r",
-"name":"tetracosanoyl-CoA",
+"name":"lignoceryl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C45H78N7O17P3S",
@@ -83718,7 +83718,7 @@
 },
 {
 "id":"MAM03548x",
-"name":"Chenodeoxyglycocholoyl Coenzyme A",
+"name":"chenodeoxyglycocholoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C45H70N7O19P3S",
@@ -85102,7 +85102,7 @@
 },
 {
 "id":"MAM03887c",
-"name":"Pristanoyl Coenzyme A",
+"name":"pristanoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C40H68N7O17P3S",
@@ -85393,7 +85393,7 @@
 },
 {
 "id":"MAM02110m",
-"name":"hexacosanoyl-CoA",
+"name":"cerotyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C47H82N7O17P3S",
@@ -85411,7 +85411,7 @@
 },
 {
 "id":"MAM02109m",
-"name":"hexacosanoylcarnitine",
+"name":"cerotylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C33H65NO4",
@@ -85535,7 +85535,7 @@
 },
 {
 "id":"MAM02971m",
-"name":"tetracosanoyl-CoA",
+"name":"lignoceryl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C45H78N7O17P3S",
@@ -85556,7 +85556,7 @@
 },
 {
 "id":"MAM02970m",
-"name":"tetracosanoylcarnitine",
+"name":"lignocerylcarnitine",
 "compartment":"m",
 "charge":0,
 "formula":"C31H61NO4",
@@ -85975,7 +85975,7 @@
 },
 {
 "id":"MAM03850r",
-"name":"Pseudoecgonyl Coenzyme A",
+"name":"pseudoecgonyl-CoA",
 "compartment":"r",
 "charge":-3,
 "formula":"C30H46N8O18P3S",
@@ -85989,7 +85989,7 @@
 },
 {
 "id":"MAM03887x",
-"name":"Pristanoyl Coenzyme A",
+"name":"pristanoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C40H68N7O17P3S",
@@ -93591,7 +93591,7 @@
 },
 {
 "id":"MAM03409c",
-"name":"Adipoyl Coenzyme A",
+"name":"adipoyl-CoA",
 "compartment":"c",
 "charge":-5,
 "formula":"C27H39N7O19P3S",
@@ -93622,7 +93622,7 @@
 },
 {
 "id":"MAM03409x",
-"name":"Adipoyl Coenzyme A",
+"name":"adipoyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C27H39N7O19P3S",
@@ -93636,7 +93636,7 @@
 },
 {
 "id":"MAM03499x",
-"name":"Adipoyl Carnitine",
+"name":"adipoylcarnitine",
 "compartment":"x",
 "charge":-1,
 "formula":"C13H22NO6",
@@ -93677,7 +93677,7 @@
 },
 {
 "id":"MAM03488c",
-"name":"Decanoyl Carnitine",
+"name":"caprylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C17H33NO4",
@@ -93692,7 +93692,7 @@
 },
 {
 "id":"MAM03486c",
-"name":"Decenoyl Coenzyme A",
+"name":"decenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C31H48N7O17P3S",
@@ -93704,7 +93704,7 @@
 },
 {
 "id":"MAM03487c",
-"name":"Decenoyl Carnitine",
+"name":"decenoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C17H31NO4",
@@ -93718,7 +93718,7 @@
 },
 {
 "id":"MAM03487e",
-"name":"Decenoyl Carnitine",
+"name":"decenoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C17H31NO4",
@@ -93732,7 +93732,7 @@
 },
 {
 "id":"MAM03543c",
-"name":"Decadienoyl Coenzyme A",
+"name":"decadienoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -93745,7 +93745,7 @@
 },
 {
 "id":"MAM03544c",
-"name":"Decadienoyl Carnitine",
+"name":"decadienoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C17H29NO4",
@@ -93759,7 +93759,7 @@
 },
 {
 "id":"MAM03488e",
-"name":"Decanoyl Carnitine",
+"name":"caprylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C17H33NO4",
@@ -93774,7 +93774,7 @@
 },
 {
 "id":"MAM03489x",
-"name":"Sebacoyl Carnitine",
+"name":"sebacoylcarnitine",
 "compartment":"x",
 "charge":-1,
 "formula":"C17H30NO6",
@@ -93787,7 +93787,7 @@
 },
 {
 "id":"MAM03489c",
-"name":"Sebacoyl Carnitine",
+"name":"sebacoylcarnitine",
 "compartment":"c",
 "charge":-1,
 "formula":"C17H30NO6",
@@ -93800,7 +93800,7 @@
 },
 {
 "id":"MAM03924c",
-"name":"Sebacoyl Coenzyme A",
+"name":"sebacoyl-CoA",
 "compartment":"c",
 "charge":-5,
 "formula":"C31H47N7O19P3S",
@@ -93814,7 +93814,7 @@
 },
 {
 "id":"MAM03489e",
-"name":"Sebacoyl Carnitine",
+"name":"sebacoylcarnitine",
 "compartment":"e",
 "charge":-1,
 "formula":"C17H30NO6",
@@ -93874,7 +93874,7 @@
 },
 {
 "id":"MAM03541c",
-"name":"Dodecenoyl Carnitine",
+"name":"dodecenoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C19H35NO4",
@@ -93887,7 +93887,7 @@
 },
 {
 "id":"MAM03491x",
-"name":"Dodecanedioyl Coenzyme A",
+"name":"dodecanedioyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C33H51N7O19P3S",
@@ -93913,7 +93913,7 @@
 },
 {
 "id":"MAM03491c",
-"name":"Dodecanedioyl Coenzyme A",
+"name":"dodecanedioyl-CoA",
 "compartment":"c",
 "charge":-5,
 "formula":"C33H51N7O19P3S",
@@ -93939,7 +93939,7 @@
 },
 {
 "id":"MAM03490c",
-"name":"Dodecanedioyl Carnitine",
+"name":"dodecanedioylcarnitine",
 "compartment":"c",
 "charge":-1,
 "formula":"C19H34NO6",
@@ -93951,7 +93951,7 @@
 },
 {
 "id":"MAM03490e",
-"name":"Dodecanedioyl Carnitine",
+"name":"dodecanedioylcarnitine",
 "compartment":"e",
 "charge":-1,
 "formula":"C19H34NO6",
@@ -94017,7 +94017,7 @@
 },
 {
 "id":"MAM03979c",
-"name":"Tetradecenoyl Coenzyme A",
+"name":"tetradecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C35H56N7O17P3S",
@@ -94030,7 +94030,7 @@
 },
 {
 "id":"MAM03980c",
-"name":"Tetradecenoyl Carnitine",
+"name":"tetradecenoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C21H39NO4",
@@ -94092,7 +94092,7 @@
 },
 {
 "id":"MAM03974c",
-"name":"Tetradecadienoyl Coenzyme A",
+"name":"tetradecadienoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C35H54N7O17P3S",
@@ -94104,7 +94104,7 @@
 },
 {
 "id":"MAM03975c",
-"name":"Tetradecadienoyl Carnitine",
+"name":"tetradecadienoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C21H37NO4",
@@ -94244,7 +94244,7 @@
 },
 {
 "id":"MAM03655c",
-"name":"Hexadecanedioyl Coenzyme A",
+"name":"hexadecanedioyl-CoA",
 "compartment":"c",
 "charge":-5,
 "formula":"C37H59N7O19P3S",
@@ -94406,7 +94406,7 @@
 },
 {
 "id":"MAM03495x",
-"name":"Succinyl Carnitine",
+"name":"succinylcarnitine",
 "compartment":"x",
 "charge":-1,
 "formula":"C11H18NO6",
@@ -94419,7 +94419,7 @@
 },
 {
 "id":"MAM03495c",
-"name":"Succinyl Carnitine",
+"name":"succinylcarnitine",
 "compartment":"c",
 "charge":-1,
 "formula":"C11H18NO6",
@@ -94432,7 +94432,7 @@
 },
 {
 "id":"MAM03495e",
-"name":"Succinyl Carnitine",
+"name":"succinylcarnitine",
 "compartment":"e",
 "charge":-1,
 "formula":"C11H18NO6",
@@ -94479,7 +94479,7 @@
 },
 {
 "id":"MAM03706c",
-"name":"Isovaleryl Carnitine",
+"name":"isovalerylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C12H23NO4",
@@ -94494,7 +94494,7 @@
 },
 {
 "id":"MAM03496c",
-"name":"Tiglyl Carnitine",
+"name":"tiglylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C12H21NO4",
@@ -94509,7 +94509,7 @@
 },
 {
 "id":"MAM03497c",
-"name":"Glutaryl Carnitine",
+"name":"glutarylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C12H21NO6",
@@ -94523,7 +94523,7 @@
 },
 {
 "id":"MAM03497e",
-"name":"Glutaryl Carnitine",
+"name":"glutarylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C12H21NO6",
@@ -94537,7 +94537,7 @@
 },
 {
 "id":"MAM03498c",
-"name":"Hexanoyl Carnitine",
+"name":"caproylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C13H25NO4",
@@ -94551,7 +94551,7 @@
 },
 {
 "id":"MAM03498x",
-"name":"Hexanoyl Carnitine",
+"name":"caproylcarnitine",
 "compartment":"x",
 "charge":0,
 "formula":"C13H25NO4",
@@ -94565,7 +94565,7 @@
 },
 {
 "id":"MAM03498e",
-"name":"Hexanoyl Carnitine",
+"name":"caproylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C13H25NO4",
@@ -94579,7 +94579,7 @@
 },
 {
 "id":"MAM03499c",
-"name":"Adipoyl Carnitine",
+"name":"adipoylcarnitine",
 "compartment":"c",
 "charge":-1,
 "formula":"C13H22NO6",
@@ -94592,7 +94592,7 @@
 },
 {
 "id":"MAM03499e",
-"name":"Adipoyl Carnitine",
+"name":"adipoylcarnitine",
 "compartment":"e",
 "charge":-1,
 "formula":"C13H22NO6",
@@ -94605,7 +94605,7 @@
 },
 {
 "id":"MAM03500c",
-"name":"Octenoyl Coenzyme A",
+"name":"octenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C29H44N7O17P3S",
@@ -94618,7 +94618,7 @@
 },
 {
 "id":"MAM03501c",
-"name":"Octenoyl Carnitine",
+"name":"octenoylcarnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C15H27NO4",
@@ -94632,7 +94632,7 @@
 },
 {
 "id":"MAM03501e",
-"name":"Octenoyl Carnitine",
+"name":"octenoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C15H27NO4",
@@ -94667,7 +94667,7 @@
 },
 {
 "id":"MAM03922c",
-"name":"Suberyl Coenzyme A",
+"name":"suberyl-CoA",
 "compartment":"c",
 "charge":-5,
 "formula":"C29H43N7O19P3S",
@@ -94681,7 +94681,7 @@
 },
 {
 "id":"MAM03502c",
-"name":"Suberyl Carnitine",
+"name":"suberylcarnitine",
 "compartment":"c",
 "charge":-1,
 "formula":"C15H26NO6",
@@ -94694,7 +94694,7 @@
 },
 {
 "id":"MAM03502e",
-"name":"Suberyl Carnitine",
+"name":"suberylcarnitine",
 "compartment":"e",
 "charge":-1,
 "formula":"C15H26NO6",
@@ -94741,7 +94741,7 @@
 },
 {
 "id":"MAM03541e",
-"name":"Dodecenoyl Carnitine",
+"name":"dodecenoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C19H35NO4",
@@ -94768,7 +94768,7 @@
 },
 {
 "id":"MAM03544e",
-"name":"Decadienoyl Carnitine",
+"name":"decadienoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C17H29NO4",
@@ -94944,7 +94944,7 @@
 },
 {
 "id":"MAM03496e",
-"name":"Tiglyl Carnitine",
+"name":"tiglylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C12H21NO4",
@@ -94959,7 +94959,7 @@
 },
 {
 "id":"MAM03706e",
-"name":"Isovaleryl Carnitine",
+"name":"isovalerylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C12H23NO4",
@@ -94974,7 +94974,7 @@
 },
 {
 "id":"MAM03975e",
-"name":"Tetradecadienoyl Carnitine",
+"name":"tetradecadienoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C21H37NO4",
@@ -94987,7 +94987,7 @@
 },
 {
 "id":"MAM03980e",
-"name":"Tetradecenoyl Carnitine",
+"name":"tetradecenoylcarnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C21H39NO4",
@@ -95121,7 +95121,7 @@
 },
 {
 "id":"MAM03924x",
-"name":"Sebacoyl Coenzyme A",
+"name":"sebacoyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C31H47N7O19P3S",
@@ -95135,7 +95135,7 @@
 },
 {
 "id":"MAM03922x",
-"name":"Suberyl Coenzyme A",
+"name":"suberyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C29H43N7O19P3S",
@@ -95247,7 +95247,7 @@
 },
 {
 "id":"MAM03490x",
-"name":"Dodecanedioyl Carnitine",
+"name":"dodecanedioylcarnitine",
 "compartment":"x",
 "charge":-1,
 "formula":"C19H34NO6",
@@ -95321,7 +95321,7 @@
 },
 {
 "id":"MAM03492x",
-"name":"Tetradecanedioyl Coenzyme A",
+"name":"tetradecanedioyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C35H55N7O19P3S",
@@ -95527,7 +95527,7 @@
 },
 {
 "id":"MAM03655x",
-"name":"Hexadecanedioyl Coenzyme A",
+"name":"hexadecanedioyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C37H59N7O19P3S",
@@ -95540,7 +95540,7 @@
 },
 {
 "id":"MAM03655r",
-"name":"Hexadecanedioyl Coenzyme A",
+"name":"hexadecanedioyl-CoA",
 "compartment":"r",
 "charge":-5,
 "formula":"C37H59N7O19P3S",
@@ -95611,7 +95611,7 @@
 },
 {
 "id":"MAM03792m",
-"name":"Octadecenoyl Coenzyme A",
+"name":"octadecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H64N7O17P3S",
@@ -96192,7 +96192,7 @@
 },
 {
 "id":"MAM03792c",
-"name":"Octadecenoyl Coenzyme A",
+"name":"octadecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H64N7O17P3S",
@@ -96255,7 +96255,7 @@
 },
 {
 "id":"MAM03502x",
-"name":"Suberyl Carnitine",
+"name":"suberylcarnitine",
 "compartment":"x",
 "charge":-1,
 "formula":"C15H26NO6",
@@ -102176,7 +102176,7 @@
 },
 {
 "id":"MAM04061c",
-"name":"Ursodeoxycholyl Coenzyme A",
+"name":"ursodeoxycholyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C45H70N7O19P3S",
@@ -102215,7 +102215,7 @@
 },
 {
 "id":"MAM03485m",
-"name":"Benzoyl Coenzyme A",
+"name":"benzoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C28H36N7O17P3S",
@@ -110090,7 +110090,7 @@
 },
 {
 "id":"MAM03613m",
-"name":"Glutaconyl Coenzyme A",
+"name":"glutaconyl-CoA",
 "compartment":"m",
 "charge":-5,
 "formula":"C26H35N7O19P3S",
@@ -110366,7 +110366,7 @@
 },
 {
 "id":"MAM03576c",
-"name":"Ethylmalonyl Coenzyme A",
+"name":"ethylmalonyl-CoA",
 "compartment":"c",
 "charge":-5,
 "formula":"C26H37N7O19P3S",
@@ -181439,7 +181439,7 @@
 },
 {
 "id":"MAR00342",
-"name":"Hexacosanoyl-CoA hydrolase",
+"name":"Cerotyl-CoA hydrolase",
 "metabolites":{
 "MAM01432c":1.0,
 "MAM01597c":1.0,
@@ -330317,7 +330317,7 @@
 },
 {
 "id":"MAR00777",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Fatty Acid Beta Oxidation (C18->C16), Peroxisomal",
 "metabolites":{
 "MAM01261x":1.0,
 "MAM01597x":-1.0,
@@ -330647,7 +330647,7 @@
 },
 {
 "id":"MAR00872",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Fatty Acid Beta Oxidation (C20->C18), Peroxisomal",
 "metabolites":{
 "MAM01261x":1.0,
 "MAM01597x":-1.0,
@@ -330970,7 +330970,7 @@
 },
 {
 "id":"MAR00974",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Fatty Acid Beta Oxidation (C24->C20), Peroxisomal",
 "metabolites":{
 "MAM01261x":2.0,
 "MAM01597x":-2.0,
@@ -331150,7 +331150,7 @@
 },
 {
 "id":"MAR01005",
-"name":"Beta Oxidation of Long Chain Fatty Acid",
+"name":"Fatty Acid Beta Oxidation (C26->C24), Peroxisomal",
 "metabolites":{
 "MAM01261x":1.0,
 "MAM01597x":-1.0,
@@ -351724,7 +351724,7 @@
 },
 {
 "id":"MAR04479",
-"name":"Transport of Sebacoyl Carnitine into Cytosol",
+"name":"Transport of Sebacoylcarnitine into Cytosol",
 "metabolites":{
 "MAM03489c":1.0,
 "MAM03489x":-1.0
@@ -352093,7 +352093,7 @@
 },
 {
 "id":"MAR04616",
-"name":"Transport of 3-Hydroxy Trans7, 10-Hexadecadienoylcoa from Mitochondria into Cytosol",
+"name":"Transport of 3-Hydroxy Trans7, 10-Hexadecadienoyl-CoA from Mitochondria into Cytosol",
 "metabolites":{
 "MAM03265c":1.0,
 "MAM03265m":-1.0
@@ -352322,7 +352322,7 @@
 },
 {
 "id":"MAR04674",
-"name":"Transport of Butyrylcarnitine from Peroxisomes",
+"name":"Peroxisomal Transport of Butyrylcarnitine",
 "metabolites":{
 "MAM02635c":1.0,
 "MAM02635x":-1.0
@@ -352343,7 +352343,7 @@
 },
 {
 "id":"MAR04677",
-"name":"Transport of Butyrylcarnitine into Mitochondrial Matrix",
+"name":"Mitochondrial Transport of Butyrylcarnitine",
 "metabolites":{
 "MAM02635c":-1.0,
 "MAM02635m":1.0
@@ -352365,7 +352365,7 @@
 },
 {
 "id":"MAR04678",
-"name":"Esterification of Butyrylcoa to Butyrylcarnitine for Transport",
+"name":"Esterification of Butyryl-CoA to Butyrylcarnitine for Transport",
 "metabolites":{
 "MAM01412x":-1.0,
 "MAM01597x":1.0,
@@ -352459,7 +352459,7 @@
 },
 {
 "id":"MAR04722",
-"name":"Esterification of Of Hexanoylcoa for Transport into Cytosol",
+"name":"Esterification of Caproyl-CoA for Transport into Cytosol",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02122x":-1.0,
@@ -352640,7 +352640,7 @@
 },
 {
 "id":"MAR04793",
-"name":"Transport of Docosapentenoylcoa into Peroxisomes.",
+"name":"Transport of Docosapentenoyl-CoA into Peroxisomes",
 "metabolites":{
 "MAM00093c":-1.0,
 "MAM00093x":1.0,
@@ -352667,7 +352667,7 @@
 },
 {
 "id":"MAR04803",
-"name":"Transport of 13-Docosenoylcoa into Peroxisomes",
+"name":"Transport of 13-Docosenoyl-CoA into Peroxisomes",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -353098,7 +353098,7 @@
 },
 {
 "id":"MAR04866",
-"name":"Exchange of Sebacoyl Carnitine",
+"name":"Exchange of Sebacoylcarnitine",
 "metabolites":{
 "MAM03489e":-1.0
 },
@@ -353254,7 +353254,7 @@
 },
 {
 "id":"MAR04899",
-"name":"Exchange of Hexanoyl Carnitine",
+"name":"Exchange of Caproylcarnitine",
 "metabolites":{
 "MAM03498e":-1.0
 },
@@ -354811,7 +354811,7 @@
 },
 {
 "id":"MAR05190",
-"name":"Production of 3-Hydroxyhexadecenoylcoa",
+"name":"Production of 3-Hydroxyhexadecenoyl-CoA",
 "metabolites":{
 "MAM01802m":-1.0,
 "MAM01803m":1.0,
@@ -356454,7 +356454,7 @@
 },
 {
 "id":"MAR06278",
-"name":"(3-Hydroxyisovalerylcoa->3-Hydroxyisovalerylcarnitine)",
+"name":"(3-Hydroxyisovaleryl-CoA->3-Hydroxyisovalerylcarnitine)",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02348c":-1.0,
@@ -357196,7 +357196,7 @@
 },
 {
 "id":"MAR06491",
-"name":"Transport of 3-Hydroxyhexadecanoylcoa from Mitochondria into the Cytosol",
+"name":"Transport of 3-Hydroxyhexadecanoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM03218c":1.0,
 "MAM03218m":-1.0
@@ -357218,7 +357218,7 @@
 },
 {
 "id":"MAR06493",
-"name":"Transport of 3-Hydroxyhexadecenoylcoa from Mitochondria into the Cytosol",
+"name":"Transport of 3-Hydroxyhexadecenoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM03216c":1.0,
 "MAM03216m":-1.0
@@ -357302,7 +357302,7 @@
 },
 {
 "id":"MAR06503",
-"name":"Transport of 3-Hydroxyisovalerylcoa from Mitochondria into the Cytosol",
+"name":"Transport of 3-Hydroxyisovaleryl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM03242c":1.0,
 "MAM03242m":-1.0
@@ -357344,7 +357344,7 @@
 },
 {
 "id":"MAR06538",
-"name":"Transport of 3-Hydroxyoctadecenoylcoa from Mitochondria into the Cytosol",
+"name":"Transport of 3-Hydroxyoctadecenoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM03252c":1.0,
 "MAM03252m":-1.0
@@ -357409,7 +357409,7 @@
 },
 {
 "id":"MAR06596",
-"name":"Transport of Lignocericyl Coenzyme A from Cytosol to Peroxisome.",
+"name":"Transport of Lignoceryl-CoA from Cytosol to Peroxisome",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -357436,7 +357436,7 @@
 },
 {
 "id":"MAR06597",
-"name":"Transport of Nervonylcoa into Peroxisomes",
+"name":"Transport of Nervonyl-CoA into Peroxisomes",
 "metabolites":{
 "MAM00025c":-1.0,
 "MAM00025x":1.0,
@@ -357711,7 +357711,7 @@
 },
 {
 "id":"MAR06775",
-"name":"Transport of Pristanoylcoa from Cytosol to Peroxisomes.",
+"name":"Transport of Pristanoyl-CoA from Cytosol to Peroxisomes",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -357763,7 +357763,7 @@
 },
 {
 "id":"MAR06779",
-"name":"Transport of Phytanoylcoa from Cytosol to Peroxisomes.",
+"name":"Transport of Phytanoyl-CoA from Cytosol to Peroxisomes",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -357839,7 +357839,7 @@
 },
 {
 "id":"MAR06809",
-"name":"Production of Sebacoyl Carnitine",
+"name":"Production of Sebacoylcarnitine",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02348x":-1.0,
@@ -357863,7 +357863,7 @@
 },
 {
 "id":"MAR06810",
-"name":"Thioesterification of Sebacoylcoa for Release into Cytosol",
+"name":"Thioesterification of Sebacoyl-CoA for Release into Cytosol",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -357915,7 +357915,7 @@
 },
 {
 "id":"MAR06816",
-"name":"Transport of Stearidonylcoa into Peroxisomes.",
+"name":"Transport of Stearidonyl-CoA into Peroxisomes",
 "metabolites":{
 "MAM00108c":-1.0,
 "MAM00108x":1.0,
@@ -365244,7 +365244,7 @@
 },
 {
 "id":"MAR09948",
-"name":"Acylcoa Hydrolase, Cis, Cis-11, 14-Eicosadienoyl Coenzyme A",
+"name":"Acyl-CoA Hydrolase, Cis, Cis-11, 14-Eicosadienoyl Coenzyme A",
 "metabolites":{
 "MAM00009c":-1.0,
 "MAM01597c":1.0,
@@ -390406,7 +390406,7 @@
 },
 {
 "id":"MAR11253",
-"name":"Transport of Sebacoyl Carnitine",
+"name":"Transport of Sebacoylcarnitine",
 "metabolites":{
 "MAM03489c":1.0,
 "MAM03489e":-1.0
@@ -390503,7 +390503,7 @@
 },
 {
 "id":"MAR11257",
-"name":"Transport of Butyryl Carnitine",
+"name":"Transport of Butyrylcarnitine",
 "metabolites":{
 "MAM02635c":1.0,
 "MAM02635e":-1.0
@@ -390603,7 +390603,7 @@
 },
 {
 "id":"MAR11261",
-"name":"Transport of Hexanoyl Carnitine",
+"name":"Transport of Caproylcarnitine",
 "metabolites":{
 "MAM03498c":1.0,
 "MAM03498e":-1.0
@@ -400932,7 +400932,7 @@
 },
 {
 "id":"MAR11736",
-"name":"Hydrolysis of Trans7, 10-Hexadecadienoylcoa to 7Z, 10Z-Hexadecadienoic Acid",
+"name":"Hydrolysis of Trans7, 10-Hexadecadienoyl-CoA to 7Z, 10Z-Hexadecadienoic Acid",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM02039m":1.0,
@@ -401025,7 +401025,7 @@
 },
 {
 "id":"MAR11740",
-"name":"Hydrolysis of 7, 10, 13-Hexadecatrienoylcoa to 7, 10, 13-Hexadecatrienoic Acid",
+"name":"Hydrolysis of 7, 10, 13-Hexadecatrienoyl-CoA to 7, 10, 13-Hexadecatrienoic Acid",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM02039m":1.0,
@@ -401304,7 +401304,7 @@
 },
 {
 "id":"MAR11752",
-"name":"Hydrolysis of 5, 8, 11, 14, 17-Eicosapentenoylcoa to 5, 8, 11, 14, 17-Eicosapentenoic Acid",
+"name":"Hydrolysis of 5, 8, 11, 14, 17-Eicosapentenoyl-CoA to 5, 8, 11, 14, 17-Eicosapentenoic Acid",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM02039m":1.0,
