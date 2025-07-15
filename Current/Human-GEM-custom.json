@@ -4995,7 +4995,7 @@
 },
 {
 "id":"MAM00162c",
-"name":"(R)-3-hydroxypalmitoyl-[ACP]",
+"name":"(R)-3-hydroxyhexadecanoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C27H51N2O9PRS",
@@ -54521,7 +54521,7 @@
 },
 {
 "id":"MAM02130c",
-"name":"HMA",
+"name":"3-hydroxymyristoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C25H47N2O9PRS",
@@ -85012,7 +85012,7 @@
 },
 {
 "id":"MAM03788c",
-"name":"Octadecynoyl-ACP (N-C18:2ACP)",
+"name":"Octadecynoyl-[ACP] (N-C18:2ACP)",
 "compartment":"c",
 "charge":-1,
 "formula":"C29H51N2O8PRS",
@@ -87056,7 +87056,7 @@
 },
 {
 "id":"MAM03390c",
-"name":"3-Oxostearoyl-ACP",
+"name":"3-oxooctadecanoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C29H53N2O9PRS",
@@ -87068,7 +87068,7 @@
 },
 {
 "id":"MAM03391c",
-"name":"3-Hydroxystearoyl-ACP",
+"name":"3-hydroxyoctadecanoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C29H55N2O9PSR",
@@ -87080,7 +87080,7 @@
 },
 {
 "id":"MAM03392c",
-"name":"(2E)-Octadecenoyl-ACP",
+"name":"(2E)-Octadecenoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C29H53N2O8PSR",
@@ -165648,7 +165648,7 @@
 },
 {
 "id":"MAR02179",
-"name":"(3R)-3-hydroxypalmitoyl-[ACP]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxyhexadecanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00162c":1.0,
 "MAM00880c":-1.0,
@@ -165678,7 +165678,7 @@
 },
 {
 "id":"MAR02180",
-"name":"(3R)-3-hydroxypalmitoyl-[ACP] hydro-lyase",
+"name":"(3R)-3-hydroxyhexadecanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00050c":1.0,
 "MAM00162c":-1.0,
@@ -329615,7 +329615,7 @@
 },
 {
 "id":"MAR00723",
-"name":"Fatty-Acyl-ACP Hydrolase",
+"name":"Fatty-Acyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00128c":1.0,
 "MAM00184c":1.0,
@@ -329641,7 +329641,7 @@
 },
 {
 "id":"MAR00724",
-"name":"Fatty-Acyl-ACP Hydrolase",
+"name":"Fatty-Acyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329667,7 +329667,7 @@
 },
 {
 "id":"MAR00726",
-"name":"Fatty-Acyl-ACP Hydrolase",
+"name":"Fatty-Acyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329693,7 +329693,7 @@
 },
 {
 "id":"MAR00727",
-"name":"Fatty-Acyl-ACP Hydrolase",
+"name":"Fatty-Acyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329719,7 +329719,7 @@
 },
 {
 "id":"MAR00728",
-"name":"Fatty-Acyl-ACP Hydrolase",
+"name":"Fatty-Acyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00104c":1.0,
 "MAM00184c":1.0,
@@ -329745,7 +329745,7 @@
 },
 {
 "id":"MAR00729",
-"name":"Fatty-Acyl-ACP Hydrolase",
+"name":"Fatty-Acyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -331154,7 +331154,7 @@
 "MAM02643c":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "subsystem":"Fatty acid biosynthesis",
 "notes":{
@@ -331184,7 +331184,7 @@
 "MAM02555c":-2.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "subsystem":"Fatty acid biosynthesis",
 "notes":{
@@ -331214,7 +331214,7 @@
 "MAM02972c":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "subsystem":"Fatty acid biosynthesis",
 "notes":{
@@ -331244,7 +331244,7 @@
 "MAM02972c":-1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "subsystem":"Fatty acid biosynthesis",
 "notes":{
@@ -331274,7 +331274,7 @@
 "MAM03389c":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "subsystem":"Fatty acid biosynthesis",
 "notes":{
@@ -333319,7 +333319,7 @@
 },
 {
 "id":"MAR01517",
-"name":"Malonyl CoA-ACP Transacylase, Mitochondrial",
+"name":"Malonyl CoA-[ACP] Transacylase, Mitochondrial",
 "metabolites":{
 "MAM00184m":-1.0,
 "MAM01597m":1.0,
@@ -338705,7 +338705,7 @@
 },
 {
 "id":"MAR02322",
-"name":"3-Oxoacyl-ACP Synthase, Mitochondrial Polyunsaturated Fatty Acid Biosynthesis",
+"name":"Stearoyl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM01596c":1.0,
@@ -338730,7 +338730,7 @@
 },
 {
 "id":"MAR02323",
-"name":"Fatty Acid Synthase Polyunsaturated Fatty Acid Biosynthesis",
+"name":"(3R)-3-hydroxyoctadecanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM02039c":-1.0,
 "MAM02554c":1.0,
@@ -338754,7 +338754,7 @@
 },
 {
 "id":"MAR02325",
-"name":"Fatty Acid Synthase Polyunsaturated Fatty Acid Biosynthesis",
+"name":"(3R)-3-hydroxyoctadecanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM02040c":1.0,
 "MAM03391c":-1.0,
@@ -338776,7 +338776,7 @@
 },
 {
 "id":"MAR02327",
-"name":"Fatty Acid Synthase Polyunsaturated Fatty Acid Biosynthesis",
+"name":"Stearoyl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM02039c":-1.0,
 "MAM02554c":1.0,
@@ -437689,7 +437689,7 @@
 "MAM02555c":-2.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "annotation":{
 "sbo":"SBO:0000176"
@@ -437710,7 +437710,7 @@
 "MAM02555c":-2.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "annotation":{
 "sbo":"SBO:0000176"
@@ -437731,7 +437731,7 @@
 "MAM02643c":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"",
 "annotation":{
 "sbo":"SBO:0000176"
