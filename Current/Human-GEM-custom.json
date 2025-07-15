@@ -6052,7 +6052,7 @@
 },
 {
 "id":"MAM00210c",
-"name":"[protein]-N6-(octanoyl)lysine",
+"name":"[protein]-N6-(capryloyl)lysine",
 "compartment":"c",
 "charge":0,
 "formula":"C1375H2187N381O420S4",
@@ -40158,7 +40158,7 @@
 },
 {
 "id":"MAM01649c",
-"name":"decanoyl-[ACP]",
+"name":"capryl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C21H39N2O8PRS",
@@ -42841,7 +42841,7 @@
 },
 {
 "id":"MAM01728c",
-"name":"dodecanoyl-[ACP]",
+"name":"lauroyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C23H43N2O8PRS",
@@ -53989,7 +53989,7 @@
 },
 {
 "id":"MAM02115c",
-"name":"hexadecanoyl-[ACP]",
+"name":"palmitoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C27H51N2O8PRS",
@@ -54265,7 +54265,7 @@
 },
 {
 "id":"MAM02121c",
-"name":"hexanoyl-[ACP]",
+"name":"caproyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C17H31N2O8PRS",
@@ -67628,7 +67628,7 @@
 },
 {
 "id":"MAM02643c",
-"name":"octanoyl-[ACP]",
+"name":"capryloyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C19H35N2O8PRS",
@@ -77637,7 +77637,7 @@
 },
 {
 "id":"MAM02972c",
-"name":"tetradecanoyl-[ACP]",
+"name":"myristoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C25H47N2O8PRS",
@@ -83641,7 +83641,7 @@
 },
 {
 "id":"MAM03791c",
-"name":"11-Octadecenoyl Coenzyme A",
+"name":"11-Octadecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H64N7O17P3S",
@@ -84163,7 +84163,7 @@
 },
 {
 "id":"MAM03554x",
-"name":"4,8-Dimethylnonanoyl Coenzyme A",
+"name":"4,8-Dimethylnonanoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C32H52N7O17P3S",
@@ -84509,7 +84509,7 @@
 },
 {
 "id":"MAM03553m",
-"name":"2,6-Dimethylheptanoyl Coenzyme A",
+"name":"2,6-Dimethylheptanoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C30H48N7O17P3S",
@@ -84522,7 +84522,7 @@
 },
 {
 "id":"MAM03554m",
-"name":"4,8-Dimethylnonanoyl Coenzyme A",
+"name":"4,8-Dimethylnonanoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C32H52N7O17P3S",
@@ -84947,7 +84947,7 @@
 },
 {
 "id":"MAM03968c",
-"name":"Cis-Tetradec-7-Enoyl-[Acyl-Carrier Protein] (N-C14:1)",
+"name":"Cis-Tetradec-7-Enoyl-[ACP] (N-C14:1)",
 "compartment":"c",
 "charge":-1,
 "formula":"C25H45N2O8PRS",
@@ -84960,7 +84960,7 @@
 },
 {
 "id":"MAM03646c",
-"name":"Cis-Hexadec-9-Enoyl-[Acyl-Carrier Protein] (N-C16:1)",
+"name":"Cis-Hexadec-9-Enoyl-[ACP] (N-C16:1)",
 "compartment":"c",
 "charge":-1,
 "formula":"C27H49N2O8PRS",
@@ -84972,21 +84972,8 @@
 }
 },
 {
-"id":"MAM03786c",
-"name":"Octadecanoyl-ACP (N-C18:0ACP)",
-"compartment":"c",
-"charge":-1,
-"formula":"C29H55N2O8PRS",
-"annotation":{
-"bigg.metabolite":"ocdcaACP",
-"metanetx.chemical":"MNXM3075",
-"sbo":"SBO:0000247",
-"vmhmetabolite":"ocdcaACP"
-}
-},
-{
 "id":"MAM03795c",
-"name":"Cis-Octadec-11-Enoyl-[Acyl-Carrier Protein] (N-C18:1)",
+"name":"Cis-Octadec-11-Enoyl-[ACP] (N-C18:1)",
 "compartment":"c",
 "charge":-1,
 "formula":"C29H53N2O8PRS",
@@ -85117,7 +85104,7 @@
 },
 {
 "id":"MAM03791m",
-"name":"11-Octadecenoyl Coenzyme A",
+"name":"11-Octadecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H64N7O17P3S",
@@ -87105,7 +87092,7 @@
 },
 {
 "id":"MAM03389c",
-"name":"Stearoyl-ACP",
+"name":"stearoyl-[ACP]",
 "compartment":"c",
 "charge":-1,
 "formula":"C29H55N2O8PRS",
@@ -87117,7 +87104,7 @@
 },
 {
 "id":"MAM03326m",
-"name":"3-Oxolaur-Cis-5-Enoyl Coenzyme A",
+"name":"3-Oxolaur-Cis-5-Enoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H50N7O18P3S",
@@ -90575,7 +90562,7 @@
 },
 {
 "id":"MAM03334c",
-"name":"3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A",
+"name":"3(S)-3-Hydroxydodecen-(5Z)-oyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C33H52N7O18P3S",
@@ -90589,7 +90576,7 @@
 },
 {
 "id":"MAM03326c",
-"name":"3-Oxolaur-Cis-5-Enoyl Coenzyme A",
+"name":"3-Oxolaur-Cis-5-Enoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C33H50N7O18P3S",
@@ -90602,7 +90589,7 @@
 },
 {
 "id":"MAM03334m",
-"name":"3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A",
+"name":"3(S)-3-Hydroxydodecen-(5Z)-oyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H52N7O18P3S",
@@ -90614,7 +90601,7 @@
 },
 {
 "id":"MAM03334x",
-"name":"3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A",
+"name":"3(S)-3-Hydroxydodecen-(5Z)-oyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H52N7O18P3S",
@@ -90626,7 +90613,7 @@
 },
 {
 "id":"MAM03326x",
-"name":"3-Oxolaur-Cis-5-Enoyl Coenzyme A",
+"name":"3-Oxolaur-Cis-5-Enoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H50N7O18P3S",
@@ -90686,7 +90673,7 @@
 },
 {
 "id":"MAM03333m",
-"name":"Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",
+"name":"Trans,Cis-Dodeca-2,5-Dienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H50N7O17P3S",
@@ -90697,7 +90684,7 @@
 },
 {
 "id":"MAM03333x",
-"name":"Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",
+"name":"Trans,Cis-Dodeca-2,5-Dienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H50N7O17P3S",
@@ -90780,7 +90767,7 @@
 },
 {
 "id":"MAM03358m",
-"name":"(3E,5Z,8Z)-Tetradecatrienoyl Coenzyme A",
+"name":"(3E,5Z,8Z)-Tetradecatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H52N7O17P3S",
@@ -90793,7 +90780,7 @@
 },
 {
 "id":"MAM03359m",
-"name":"Trans-2-Cis,Cis-4,8-Tetradecatrienoyl Coenzyme A",
+"name":"Trans-2-Cis,Cis-4,8-Tetradecatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H52N7O17P3S",
@@ -90805,7 +90792,7 @@
 },
 {
 "id":"MAM03360m",
-"name":"Trans-3-Cis-8-Tetradecadienoyl Coenzyme A",
+"name":"Trans-3-Cis-8-Tetradecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H54N7O17P3S",
@@ -90817,7 +90804,7 @@
 },
 {
 "id":"MAM03361m",
-"name":"Trans-2-Cis-8-Tetradecadienoyl Coenzyme A",
+"name":"Trans-2-Cis-8-Tetradecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H54N7O17P3S",
@@ -90829,7 +90816,7 @@
 },
 {
 "id":"MAM03350m",
-"name":"(3S)-3-Hydroxy-Cis-8-Tetradecenoyl Coenzyme A",
+"name":"(3S)-3-Hydroxy-Cis-8-Tetradecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H56N7O18P3S",
@@ -90842,7 +90829,7 @@
 },
 {
 "id":"MAM03351m",
-"name":"3-Oxo-Cis-8-Tetradecenoyl Coenzyme A",
+"name":"3-Oxo-Cis-8-Tetradecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H54N7O18P3S",
@@ -90854,7 +90841,7 @@
 },
 {
 "id":"MAM03352m",
-"name":"Cis-6-Dodecenoyl Coenzyme A",
+"name":"Cis-6-Dodecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H52N7O17P3S",
@@ -90878,7 +90865,7 @@
 },
 {
 "id":"MAM03362x",
-"name":"3(S)-Phytanoyl Coenzyme A",
+"name":"3(S)-Phytanoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -90891,7 +90878,7 @@
 },
 {
 "id":"MAM03363x",
-"name":"3(S)-2-Hydroxyphytanoyl Coenzyme A",
+"name":"3(S)-2-Hydroxyphytanoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C41H70N7O18P3S",
@@ -90903,7 +90890,7 @@
 },
 {
 "id":"MAM03362c",
-"name":"3(S)-Phytanoyl Coenzyme A",
+"name":"3(S)-Phytanoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C41H70N7O17P3S",
@@ -91130,7 +91117,7 @@
 },
 {
 "id":"MAM03353r",
-"name":"Tetracosa-9,12,15,18,21-All-Cis-Pentaenoyl Coenzyme A",
+"name":"Tetracosa-9,12,15,18,21-All-Cis-Pentaenoyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C45H68N7O17P3S",
@@ -91744,7 +91731,7 @@
 },
 {
 "id":"MAM03364c",
-"name":"3-Oxo-Cis-9-Octadecenoyl Coenzyme A",
+"name":"3-Oxo-Cis-9-Octadecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H62N7O18P3S",
@@ -91757,7 +91744,7 @@
 },
 {
 "id":"MAM03364r",
-"name":"3-Oxo-Cis-9-Octadecenoyl Coenzyme A",
+"name":"3-Oxo-Cis-9-Octadecenoyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C39H62N7O18P3S",
@@ -91770,7 +91757,7 @@
 },
 {
 "id":"MAM03365c",
-"name":"3(S)-Hydroxy-Cis-9-Octadecenoyl Coenzyme A",
+"name":"3(S)-Hydroxy-Cis-9-Octadecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H64N7O18P3S",
@@ -91783,7 +91770,7 @@
 },
 {
 "id":"MAM03365r",
-"name":"3(S)-Hydroxy-Cis-9-Octadecenoyl Coenzyme A",
+"name":"3(S)-Hydroxy-Cis-9-Octadecenoyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C39H64N7O18P3S",
@@ -91796,7 +91783,7 @@
 },
 {
 "id":"MAM03366c",
-"name":"Trans,Cis-2,9-Octadecadienoyl Coenzyme A",
+"name":"Trans,Cis-2,9-Octadecadienoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H62N7O17P3S",
@@ -91809,7 +91796,7 @@
 },
 {
 "id":"MAM03366r",
-"name":"Trans,Cis-2,9-Octadecadienoyl Coenzyme A",
+"name":"Trans,Cis-2,9-Octadecadienoyl-CoA",
 "compartment":"r",
 "charge":-4,
 "formula":"C39H62N7O17P3S",
@@ -91822,7 +91809,7 @@
 },
 {
 "id":"MAM03367x",
-"name":"24(R),25(R)-Varanoyl Coenzyme A",
+"name":"24(R),25(R)-Varanoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C48H76N7O21P3S",
@@ -91833,7 +91820,7 @@
 },
 {
 "id":"MAM03367c",
-"name":"24(R),25(R)-Varanoyl Coenzyme A",
+"name":"24(R),25(R)-Varanoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C48H76N7O21P3S",
@@ -91846,7 +91833,7 @@
 },
 {
 "id":"MAM03368c",
-"name":"24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A",
+"name":"24-Oxo-25(R)-Trihydroxycoprostanoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C48H74N7O21P3S",
@@ -92838,7 +92825,7 @@
 },
 {
 "id":"MAM03352x",
-"name":"Cis-6-Dodecenoyl Coenzyme A",
+"name":"Cis-6-Dodecenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H52N7O17P3S",
@@ -94068,7 +94055,7 @@
 },
 {
 "id":"MAM03267m",
-"name":"3-Hydroxy Trans5,8Tetradecadienoyl Coenzyme A",
+"name":"3-Hydroxy Trans5,8Tetradecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H54N7O18P3S",
@@ -94080,7 +94067,7 @@
 },
 {
 "id":"MAM03267c",
-"name":"3-Hydroxy Trans5,8Tetradecadienoyl Coenzyme A",
+"name":"3-Hydroxy Trans5,8Tetradecadienoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C35H54N7O18P3S",
@@ -94157,7 +94144,7 @@
 },
 {
 "id":"MAM03262c",
-"name":"3-Hydroxy-Tetradecanoyl Carnitine",
+"name":"3-hydroxytetradecanoyl carnitine",
 "compartment":"c",
 "charge":0,
 "formula":"C21H41NO5",
@@ -94171,7 +94158,7 @@
 },
 {
 "id":"MAM03216c",
-"name":"3-Hydroxyhexadecenoyl Coenzyme A",
+"name":"3-Hydroxyhexadecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C37H60N7O18P3S",
@@ -94196,7 +94183,7 @@
 },
 {
 "id":"MAM03265m",
-"name":"3-Hydroxy Trans7,10-Hexadecadienoyl Coenzyme A",
+"name":"3-Hydroxy Trans7,10-Hexadecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H58N7O18P3S",
@@ -94208,7 +94195,7 @@
 },
 {
 "id":"MAM03265c",
-"name":"3-Hydroxy Trans7,10-Hexadecadienoyl Coenzyme A",
+"name":"3-Hydroxy Trans7,10-Hexadecadienoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C37H58N7O18P3S",
@@ -94283,7 +94270,7 @@
 },
 {
 "id":"MAM03218c",
-"name":"3-Hydroxyhexadecanoyl Coenzyme A",
+"name":"3-Hydroxyhexadecanoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C37H62N7O18P3S",
@@ -94312,7 +94299,7 @@
 },
 {
 "id":"MAM03252c",
-"name":"3-Hydroxyoctadecenoyl Coenzyme A",
+"name":"3-Hydroxyoctadecenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H64N7O18P3S",
@@ -94337,7 +94324,7 @@
 },
 {
 "id":"MAM03249c",
-"name":"3-Hydroxyoctadecadienoyl Coenzyme A",
+"name":"3-Hydroxyoctadecadienoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H62N7O18P3S",
@@ -94362,7 +94349,7 @@
 },
 {
 "id":"MAM03230c",
-"name":"(S)-3-Hydroxyoctadecanoyl Coenzyme A",
+"name":"(S)-3-Hydroxyoctadecanoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C39H66N7O18P3S",
@@ -94782,7 +94769,7 @@
 },
 {
 "id":"MAM03555c",
-"name":"13-Docosenoyl Coenzyme A",
+"name":"13-Docosenoyl-CoA",
 "compartment":"c",
 "charge":-4,
 "formula":"C43H72N7O17P3S",
@@ -94795,7 +94782,7 @@
 },
 {
 "id":"MAM03555x",
-"name":"13-Docosenoyl Coenzyme A",
+"name":"13-Docosenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C43H72N7O17P3S",
@@ -94930,7 +94917,7 @@
 },
 {
 "id":"MAM03262e",
-"name":"3-Hydroxy-Tetradecanoyl Carnitine",
+"name":"3-hydroxytetradecanoyl carnitine",
 "compartment":"e",
 "charge":0,
 "formula":"C21H41NO5",
@@ -95001,7 +94988,7 @@
 },
 {
 "id":"MAM03542m",
-"name":"4,7-Decadienoyl Coenzyme A",
+"name":"4,7-Decadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -95013,7 +95000,7 @@
 },
 {
 "id":"MAM03545m",
-"name":"2,4,7-Decatrienoyl Coenzyme A",
+"name":"2,4,7-Decatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H44N7O17P3S",
@@ -95025,7 +95012,7 @@
 },
 {
 "id":"MAM03542x",
-"name":"4,7-Decadienoyl Coenzyme A",
+"name":"4,7-Decadienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -95037,7 +95024,7 @@
 },
 {
 "id":"MAM03545x",
-"name":"2,4,7-Decatrienoyl Coenzyme A",
+"name":"2,4,7-Decatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C31H44N7O17P3S",
@@ -95049,7 +95036,7 @@
 },
 {
 "id":"MAM02830m",
-"name":"2,7-Decadienoyl Coenzyme A",
+"name":"2,7-Decadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -95061,7 +95048,7 @@
 },
 {
 "id":"MAM03794m",
-"name":"5-Octenoyl Coenzyme A",
+"name":"5-Octenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C29H44N7O17P3S",
@@ -95073,7 +95060,7 @@
 },
 {
 "id":"MAM02830x",
-"name":"2,7-Decadienoyl Coenzyme A",
+"name":"2,7-Decadienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -95085,7 +95072,7 @@
 },
 {
 "id":"MAM03794x",
-"name":"5-Octenoyl Coenzyme A",
+"name":"5-Octenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C29H44N7O17P3S",
@@ -95097,7 +95084,7 @@
 },
 {
 "id":"MAM03205m",
-"name":"3,7-Decadienoyl Coenzyme A",
+"name":"3,7-Decadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -95109,7 +95096,7 @@
 },
 {
 "id":"MAM03205x",
-"name":"3,7-Decadienoyl Coenzyme A",
+"name":"3,7-Decadienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -95149,7 +95136,7 @@
 },
 {
 "id":"MAM04004x",
-"name":"2,6,10-Trimethyl Undecanoyl Coenzyme A",
+"name":"2,6,10-Trimethyl Undecanoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C35H58N7O17P3S",
@@ -95161,7 +95148,7 @@
 },
 {
 "id":"MAM03539m",
-"name":"5-Dodecenoyl Coenzyme A",
+"name":"5-Dodecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H52N7O17P3S",
@@ -95173,7 +95160,7 @@
 },
 {
 "id":"MAM02698x",
-"name":"2,6-Dodecadienoyl Coenzyme A",
+"name":"2,6-Dodecadienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H50N7O17P3S",
@@ -95186,7 +95173,7 @@
 },
 {
 "id":"MAM03203x",
-"name":"3,6-Dodecadienoyl Coenzyme A",
+"name":"3,6-Dodecadienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H50N7O17P3S",
@@ -95199,7 +95186,7 @@
 },
 {
 "id":"MAM03172m",
-"name":"2,6,9-Dodecatrienoyl Coenzyme A",
+"name":"2,6,9-Dodecatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H48N7O17P3S",
@@ -95211,7 +95198,7 @@
 },
 {
 "id":"MAM03172x",
-"name":"2,6,9-Dodecatrienoyl Coenzyme A",
+"name":"2,6,9-Dodecatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H48N7O17P3S",
@@ -95223,7 +95210,7 @@
 },
 {
 "id":"MAM03211m",
-"name":"3,6,9-Dodecatrienoyl Coenzyme A",
+"name":"3,6,9-Dodecatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H48N7O17P3S",
@@ -95235,7 +95222,7 @@
 },
 {
 "id":"MAM03211x",
-"name":"3,6,9-Dodecatrienoyl Coenzyme A",
+"name":"3,6,9-Dodecatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C33H48N7O17P3S",
@@ -95259,7 +95246,7 @@
 },
 {
 "id":"MAM03972m",
-"name":"7-Tetradecenoyl Coenzyme A",
+"name":"7-Tetradecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H56N7O17P3S",
@@ -95271,7 +95258,7 @@
 },
 {
 "id":"MAM03978x",
-"name":"5,8-Tetradecadienoyl Coenzyme A",
+"name":"5,8-Tetradecadienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C35H54N7O17P3S",
@@ -95284,7 +95271,7 @@
 },
 {
 "id":"MAM04041m",
-"name":"Trans5,8Tetradecadienoyl Coenzyme A",
+"name":"Trans5,8Tetradecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H54N7O17P3S",
@@ -95297,7 +95284,7 @@
 },
 {
 "id":"MAM03288m",
-"name":"5,8,11-Tetradecatrienoyl Coenzyme A",
+"name":"5,8,11-Tetradecatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C35H52N7O17P3S",
@@ -95309,7 +95296,7 @@
 },
 {
 "id":"MAM03288x",
-"name":"5,8,11-Tetradecatrienoyl Coenzyme A",
+"name":"5,8,11-Tetradecatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C35H52N7O17P3S",
@@ -95333,7 +95320,7 @@
 },
 {
 "id":"MAM03216m",
-"name":"3-Hydroxyhexadecenoyl Coenzyme A",
+"name":"3-Hydroxyhexadecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H60N7O18P3S",
@@ -95345,7 +95332,7 @@
 },
 {
 "id":"MAM03982m",
-"name":"Trans7,10-Hexadecadienoyl Coenzyme A",
+"name":"Trans7,10-Hexadecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H58N7O17P3S",
@@ -95357,7 +95344,7 @@
 },
 {
 "id":"MAM03182x",
-"name":"2,7,10-Hexadecatrienoyl Coenzyme A",
+"name":"2,7,10-Hexadecatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H56N7O17P3S",
@@ -95369,7 +95356,7 @@
 },
 {
 "id":"MAM03658m",
-"name":"7,10,13-Hexadecatrienoyl Coenzyme A",
+"name":"7,10,13-Hexadecatrienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H56N7O17P3S",
@@ -95381,7 +95368,7 @@
 },
 {
 "id":"MAM03274x",
-"name":"4,7,10-Hexadecatrienoyl Coenzyme A",
+"name":"4,7,10-Hexadecatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H56N7O17P3S",
@@ -95393,7 +95380,7 @@
 },
 {
 "id":"MAM03653x",
-"name":"2,4,7,10-Hexadecatetraenoyl Coenzyme A",
+"name":"2,4,7,10-Hexadecatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95405,7 +95392,7 @@
 },
 {
 "id":"MAM03221x",
-"name":"3,7,10-Hexadecatrienoyl Coenzyme A",
+"name":"3,7,10-Hexadecatrienoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H56N7O17P3S",
@@ -95417,7 +95404,7 @@
 },
 {
 "id":"MAM03181m",
-"name":"2,7,10,13-Hexadecatetraenoyl Coenzyme A",
+"name":"2,7,10,13-Hexadecatetraenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95429,7 +95416,7 @@
 },
 {
 "id":"MAM03181x",
-"name":"2,7,10,13-Hexadecatetraenoyl Coenzyme A",
+"name":"2,7,10,13-Hexadecatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95441,7 +95428,7 @@
 },
 {
 "id":"MAM03273m",
-"name":"4,7,10,13-Hexadecatetraenoyl Coenzyme A",
+"name":"4,7,10,13-Hexadecatetraenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95453,7 +95440,7 @@
 },
 {
 "id":"MAM03656m",
-"name":"2,4,7,10,13-Hexadecapentaenoyl Coenzyme A",
+"name":"2,4,7,10,13-Hexadecapentaenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H52N7O17P3S",
@@ -95465,7 +95452,7 @@
 },
 {
 "id":"MAM03273x",
-"name":"4,7,10,13-Hexadecatetraenoyl Coenzyme A",
+"name":"4,7,10,13-Hexadecatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95477,7 +95464,7 @@
 },
 {
 "id":"MAM03656x",
-"name":"2,4,7,10,13-Hexadecapentaenoyl Coenzyme A",
+"name":"2,4,7,10,13-Hexadecapentaenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H52N7O17P3S",
@@ -95489,7 +95476,7 @@
 },
 {
 "id":"MAM03220m",
-"name":"3,7,10,13-Hexadecatetraenoyl Coenzyme A",
+"name":"3,7,10,13-Hexadecatetraenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95501,7 +95488,7 @@
 },
 {
 "id":"MAM03220x",
-"name":"3,7,10,13-Hexadecatetraenoyl Coenzyme A",
+"name":"3,7,10,13-Hexadecatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C37H54N7O17P3S",
@@ -95513,7 +95500,7 @@
 },
 {
 "id":"MAM03218m",
-"name":"3-Hydroxyhexadecanoyl Coenzyme A",
+"name":"3-Hydroxyhexadecanoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C37H62N7O18P3S",
@@ -95586,7 +95573,7 @@
 },
 {
 "id":"MAM03789x",
-"name":"9-Octadecenoyl Coenzyme A",
+"name":"9-Octadecenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C39H64N7O17P3S",
@@ -95599,7 +95586,7 @@
 },
 {
 "id":"MAM03252m",
-"name":"3-Hydroxyoctadecenoyl Coenzyme A",
+"name":"3-Hydroxyoctadecenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H64N7O18P3S",
@@ -95623,7 +95610,7 @@
 },
 {
 "id":"MAM03249m",
-"name":"3-Hydroxyoctadecadienoyl Coenzyme A",
+"name":"3-Hydroxyoctadecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H62N7O18P3S",
@@ -95635,7 +95622,7 @@
 },
 {
 "id":"MAM03194m",
-"name":"2,6,9,12-Octadecatetraenoyl Coenzyme A",
+"name":"2,6,9,12-Octadecatetraenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H58N7O17P3S",
@@ -95647,7 +95634,7 @@
 },
 {
 "id":"MAM03194x",
-"name":"2,6,9,12-Octadecatetraenoyl Coenzyme A",
+"name":"2,6,9,12-Octadecatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C39H58N7O17P3S",
@@ -95659,7 +95646,7 @@
 },
 {
 "id":"MAM03254m",
-"name":"3,6,9,12-Octadecatetraenoyl Coenzyme A",
+"name":"3,6,9,12-Octadecatetraenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H58N7O17P3S",
@@ -95671,7 +95658,7 @@
 },
 {
 "id":"MAM03254x",
-"name":"3,6,9,12-Octadecatetraenoyl Coenzyme A",
+"name":"3,6,9,12-Octadecatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C39H58N7O17P3S",
@@ -95683,7 +95670,7 @@
 },
 {
 "id":"MAM03195m",
-"name":"2,6,9,12,15-Octadecapentenoyl Coenzyme A",
+"name":"2,6,9,12,15-Octadecapentenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H56N7O17P3S",
@@ -95695,7 +95682,7 @@
 },
 {
 "id":"MAM03255m",
-"name":"3,6,9,12,15-Octadecapentenoyl Coenzyme A",
+"name":"3,6,9,12,15-Octadecapentenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H56N7O17P3S",
@@ -95707,7 +95694,7 @@
 },
 {
 "id":"MAM03230m",
-"name":"(S)-3-Hydroxyoctadecanoyl Coenzyme A",
+"name":"(S)-3-Hydroxyoctadecanoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C39H66N7O18P3S",
@@ -95721,7 +95708,7 @@
 },
 {
 "id":"MAM03567x",
-"name":"11-Eicosenoyl Coenzyme A",
+"name":"11-Eicosenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C41H68N7O17P3S",
@@ -95734,7 +95721,7 @@
 },
 {
 "id":"MAM03571m",
-"name":"5,8,11,14-Eicosatetraenoyl Coenzyme A",
+"name":"5,8,11,14-Eicosatetraenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C41H62N7O17P3S",
@@ -95746,7 +95733,7 @@
 },
 {
 "id":"MAM03571x",
-"name":"5,8,11,14-Eicosatetraenoyl Coenzyme A",
+"name":"5,8,11,14-Eicosatetraenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C41H62N7O17P3S",
@@ -95758,7 +95745,7 @@
 },
 {
 "id":"MAM03570x",
-"name":"2,5,8,11,14-Eicosapentaenoyl Coenzyme A",
+"name":"2,5,8,11,14-Eicosapentaenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C41H60N7O17P3S",
@@ -95770,7 +95757,7 @@
 },
 {
 "id":"MAM03284m",
-"name":"5,8,11,14,17-Eicosapentenoyl Coenzyme A",
+"name":"5,8,11,14,17-Eicosapentenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C41H60N7O17P3S",
@@ -95782,7 +95769,7 @@
 },
 {
 "id":"MAM03171m",
-"name":"2,7,10,13,16-Docosapentenoyl Coenzyme A",
+"name":"2,7,10,13,16-Docosapentenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H64N7O17P3S",
@@ -95794,7 +95781,7 @@
 },
 {
 "id":"MAM03171x",
-"name":"2,7,10,13,16-Docosapentenoyl Coenzyme A",
+"name":"2,7,10,13,16-Docosapentenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C43H64N7O17P3S",
@@ -95806,7 +95793,7 @@
 },
 {
 "id":"MAM03557m",
-"name":"2,4,7,10,13,16-Docosahexenoyl Coenzyme A",
+"name":"2,4,7,10,13,16-Docosahexenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H62N7O17P3S",
@@ -95818,7 +95805,7 @@
 },
 {
 "id":"MAM03557x",
-"name":"2,4,7,10,13,16-Docosahexenoyl Coenzyme A",
+"name":"2,4,7,10,13,16-Docosahexenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C43H62N7O17P3S",
@@ -95830,7 +95817,7 @@
 },
 {
 "id":"MAM03210m",
-"name":"3,7,10,13,16-Docosapentenoyl Coenzyme A",
+"name":"3,7,10,13,16-Docosapentenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H64N7O17P3S",
@@ -95842,7 +95829,7 @@
 },
 {
 "id":"MAM03210x",
-"name":"3,7,10,13,16-Docosapentenoyl Coenzyme A",
+"name":"3,7,10,13,16-Docosapentenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C43H64N7O17P3S",
@@ -95854,7 +95841,7 @@
 },
 {
 "id":"MAM02831m",
-"name":"2,7,10,13,16,19-Docosahexenoyl Coenzyme A",
+"name":"2,7,10,13,16,19-Docosahexenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H62N7O17P3S",
@@ -95866,7 +95853,7 @@
 },
 {
 "id":"MAM03556m",
-"name":"2,4,7,10,13,16,19-Docosaheptenoyl Coenzyme A",
+"name":"2,4,7,10,13,16,19-Docosaheptenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H60N7O17P3S",
@@ -95878,7 +95865,7 @@
 },
 {
 "id":"MAM03559m",
-"name":"3,7,10,13,16,19-Docosahexenoyl Coenzyme A",
+"name":"3,7,10,13,16,19-Docosahexenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C43H62N7O17P3S",
@@ -95962,7 +95949,7 @@
 },
 {
 "id":"MAM03659m",
-"name":"3-Hexenoyl Coenzyme A",
+"name":"3-Hexenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C27H40N7O17P3S",
@@ -95975,7 +95962,7 @@
 },
 {
 "id":"MAM03659x",
-"name":"3-Hexenoyl Coenzyme A",
+"name":"3-Hexenoyl-CoA",
 "compartment":"x",
 "charge":-4,
 "formula":"C27H40N7O17P3S",
@@ -96004,7 +95991,7 @@
 },
 {
 "id":"MAM03552m",
-"name":"2,6-Dimethyl Heptanoyl Coenzyme A",
+"name":"2,6-Dimethyl Heptanoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C30H48N7O17P3S",
@@ -96088,7 +96075,7 @@
 },
 {
 "id":"MAM03969m",
-"name":"Trans4Decenoyl Coenzyme A",
+"name":"Trans4Decenoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H48N7O17P3S",
@@ -96100,7 +96087,7 @@
 },
 {
 "id":"MAM03522m",
-"name":"Cis2Trans4Decadienoyl Coenzyme A",
+"name":"Cis2Trans4Decadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C31H46N7O17P3S",
@@ -96113,7 +96100,7 @@
 },
 {
 "id":"MAM03966m",
-"name":"Trans2,6Dodecadienoyl Coenzyme A",
+"name":"Trans2,6Dodecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H50N7O17P3S",
@@ -96125,7 +96112,7 @@
 },
 {
 "id":"MAM03967m",
-"name":"Trans3,6Dodecadienoyl Coenzyme A",
+"name":"Trans3,6Dodecadienoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C33H50N7O17P3S",
@@ -98070,7 +98057,7 @@
 },
 {
 "id":"MAM04040c",
-"name":"Tetradecenoyl Coenzyme A (N-C14:1)",
+"name":"Tetradecenoyl-CoA (N-C14:1)",
 "compartment":"c",
 "charge":-4,
 "formula":"C35H56N7O17P3S",
@@ -101777,7 +101764,7 @@
 },
 {
 "id":"MAM03977e",
-"name":"C14:0-Ethanolamide, Tetradecanoyl Ethanolamide",
+"name":"C14:0-Ethanolamide, Myristoyl Ethanolamide",
 "compartment":"e",
 "charge":0,
 "formula":"C16H33NO2",
@@ -110174,7 +110161,7 @@
 },
 {
 "id":"MAM03213x",
-"name":"3-Hydroxy-Adipoyl Coenzyme A",
+"name":"3-Hydroxy-Adipoyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C27H39N7O20P3S",
@@ -110222,7 +110209,7 @@
 },
 {
 "id":"MAM03259x",
-"name":"3-Hydroxy-Sebacoyl Coenzyme A",
+"name":"3-Hydroxy-Sebacoyl-CoA",
 "compartment":"x",
 "charge":-5,
 "formula":"C31H47N7O20P3S",
@@ -110402,7 +110389,7 @@
 },
 {
 "id":"MAM03660c",
-"name":"Hexanoyl-Glycine",
+"name":"N-Caproylglycine",
 "compartment":"c",
 "charge":-1,
 "formula":"C8H14NO3",
@@ -110414,7 +110401,7 @@
 },
 {
 "id":"MAM03660e",
-"name":"Hexanoyl-Glycine",
+"name":"N-Caproylglycine",
 "compartment":"e",
 "charge":-1,
 "formula":"C8H14NO3",
@@ -110682,7 +110669,7 @@
 },
 {
 "id":"MAM03683m",
-"name":"Trans-Delta-2-Heptadecanoyl Coenzyme A",
+"name":"Trans-Delta-2-Heptadecanoyl-CoA",
 "compartment":"m",
 "charge":-4,
 "formula":"C38H62N7O17P3S",
@@ -122706,7 +122693,7 @@
 },
 {
 "id":"MAM03977c",
-"name":"C14:0-Ethanolamide, Tetradecanoyl Ethanolamide",
+"name":"C14:0-Ethanolamide, Myristoyl Ethanolamide",
 "compartment":"c",
 "charge":0,
 "formula":"C16H33NO2",
@@ -164900,7 +164887,7 @@
 },
 {
 "id":"MAR02152",
-"name":"Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"Acyl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM01254c":1.0,
@@ -164930,7 +164917,7 @@
 },
 {
 "id":"MAR02153",
-"name":"(3R)-3-hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxybutanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00158c":1.0,
 "MAM01254c":-1.0,
@@ -164960,7 +164947,7 @@
 },
 {
 "id":"MAR02154",
-"name":"(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxybutanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00158c":-1.0,
 "MAM01409c":1.0,
@@ -164987,7 +164974,7 @@
 },
 {
 "id":"MAR02155",
-"name":"butyryl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"butyryl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM01409c":-1.0,
 "MAM01411c":1.0,
@@ -165015,7 +165002,7 @@
 },
 {
 "id":"MAR02156",
-"name":"butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"butyryl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00881c":1.0,
@@ -165047,7 +165034,7 @@
 },
 {
 "id":"MAR02157",
-"name":"(3R)-3-hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxyhexanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00881c":-1.0,
 "MAM01635c":1.0,
@@ -165077,7 +165064,7 @@
 },
 {
 "id":"MAR02158",
-"name":"(3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxybutanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00052c":1.0,
 "MAM01635c":-1.0,
@@ -165105,7 +165092,7 @@
 },
 {
 "id":"MAR02159",
-"name":"hexanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"Caproyl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00052c":-1.0,
 "MAM02039c":-1.0,
@@ -165138,7 +165125,7 @@
 },
 {
 "id":"MAR02160",
-"name":"hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"Caproyl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00891c":1.0,
@@ -165170,7 +165157,7 @@
 },
 {
 "id":"MAR02161",
-"name":"(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxyoctanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00161c":1.0,
 "MAM00891c":-1.0,
@@ -165200,7 +165187,7 @@
 },
 {
 "id":"MAR02162",
-"name":"(3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxyoctanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00058c":1.0,
 "MAM00161c":-1.0,
@@ -165228,7 +165215,7 @@
 },
 {
 "id":"MAR02163",
-"name":"octanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"Capryloyl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00058c":-1.0,
 "MAM02039c":-1.0,
@@ -165261,7 +165248,7 @@
 },
 {
 "id":"MAR02164",
-"name":"Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"Capryloyl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00857c":1.0,
@@ -165293,7 +165280,7 @@
 },
 {
 "id":"MAR02165",
-"name":"(3R)-3-hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxydecanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00160c":1.0,
 "MAM00857c":-1.0,
@@ -165323,7 +165310,7 @@
 },
 {
 "id":"MAR02166",
-"name":"(3R)-3-hydroxydecanoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxydecanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00038c":1.0,
 "MAM00160c":-1.0,
@@ -165351,7 +165338,7 @@
 },
 {
 "id":"MAR02167",
-"name":"decanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"Capryl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00038c":-1.0,
 "MAM01649c":1.0,
@@ -165384,7 +165371,7 @@
 },
 {
 "id":"MAR02168",
-"name":"Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"Capryl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00867c":1.0,
@@ -165416,7 +165403,7 @@
 },
 {
 "id":"MAR02169",
-"name":"(3R)-3-hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxydodecanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00867c":-1.0,
 "MAM01634c":1.0,
@@ -165446,7 +165433,7 @@
 },
 {
 "id":"MAR02170",
-"name":"(3R)-3-hydroxydodecanoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxydodecanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00041c":1.0,
 "MAM01634c":-1.0,
@@ -165474,7 +165461,7 @@
 },
 {
 "id":"MAR02171",
-"name":"dodecanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"Lauroyl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00041c":-1.0,
 "MAM01728c":1.0,
@@ -165507,7 +165494,7 @@
 },
 {
 "id":"MAR02173",
-"name":"dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"Lauroyl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00905c":1.0,
@@ -165539,7 +165526,7 @@
 },
 {
 "id":"MAR02174",
-"name":"(3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxytetradecanoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00905c":-1.0,
 "MAM02039c":-1.0,
@@ -165568,7 +165555,7 @@
 },
 {
 "id":"MAR02175",
-"name":"(3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxytetradecanoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00065c":1.0,
 "MAM02040c":1.0,
@@ -165596,7 +165583,7 @@
 },
 {
 "id":"MAR02176",
-"name":"tetradecanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"Myristoyl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00065c":-1.0,
 "MAM02039c":-1.0,
@@ -165629,7 +165616,7 @@
 },
 {
 "id":"MAR02178",
-"name":"Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)",
+"name":"Myristoyl-[ACP]:malonyl-[ACP] C-acyltransferase (decarboxylating)",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00880c":1.0,
@@ -165661,7 +165648,7 @@
 },
 {
 "id":"MAR02179",
-"name":"(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase",
+"name":"(3R)-3-hydroxypalmitoyl-[ACP]:NADP+ oxidoreductase",
 "metabolites":{
 "MAM00162c":1.0,
 "MAM00880c":-1.0,
@@ -165691,7 +165678,7 @@
 },
 {
 "id":"MAR02180",
-"name":"(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase",
+"name":"(3R)-3-hydroxypalmitoyl-[ACP] hydro-lyase",
 "metabolites":{
 "MAM00050c":1.0,
 "MAM00162c":-1.0,
@@ -165718,7 +165705,7 @@
 },
 {
 "id":"MAR02181",
-"name":"hexadecanoyl-[acp]:NADP+ trans-2-oxidoreductase",
+"name":"Palmitoyl-[ACP]:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00050c":-1.0,
 "MAM02039c":-1.0,
@@ -167302,7 +167289,7 @@
 },
 {
 "id":"MAR02194",
-"name":"octadecanoyl-CoA:NADP+ trans-2-oxidoreductase",
+"name":"Stearoyl-CoA:NADP+ trans-2-oxidoreductase",
 "metabolites":{
 "MAM00057c":-1.0,
 "MAM02039c":-1.0,
@@ -168427,7 +168414,7 @@
 },
 {
 "id":"MAR02150",
-"name":"acetyl-CoA:[acyl-carrier-protein] S-acetyltransferase",
+"name":"acetyl-CoA:[ACP] S-acetyltransferase",
 "metabolites":{
 "MAM00184c":-1.0,
 "MAM01258c":1.0,
@@ -168454,7 +168441,7 @@
 },
 {
 "id":"MAR02151",
-"name":"Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase",
+"name":"Malonyl-CoA:[ACP] S-malonyltransferase",
 "metabolites":{
 "MAM00184c":-1.0,
 "MAM01597c":1.0,
@@ -168484,7 +168471,7 @@
 },
 {
 "id":"MAR02172",
-"name":"dodecanoyl-[acyl-carrier-protein] hydrolase",
+"name":"Lauroyl-[ACP] hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM01728c":-1.0,
@@ -168513,7 +168500,7 @@
 },
 {
 "id":"MAR02177",
-"name":"tetradecanoyl-[acyl-carrier protein] hydrolase",
+"name":"Myristoyl-[ACP] hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -168542,7 +168529,7 @@
 },
 {
 "id":"MAR02182",
-"name":"hexadecanoyl-[acyl-carrier protein] hydrolase",
+"name":"Palmitoyl-[ACP] hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -169496,7 +169483,7 @@
 },
 {
 "id":"MAR06402",
-"name":"octanoyl-[acp]:protein N6-octanoyltransferase",
+"name":"Capryloyl-[ACP]:protein N6-octanoyltransferase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM00210c":1.0,
@@ -169530,7 +169517,7 @@
 },
 {
 "id":"MAR06403",
-"name":"[protein]-N6-(octanoyl)-L-lysine:an [Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase",
+"name":"[protein]-N6-(capryloyl)-L-lysine:an [Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster sulfurtransferase",
 "metabolites":{
 "MAM00209c":1.0,
 "MAM00210c":-1.0,
@@ -183408,7 +183395,7 @@
 },
 {
 "id":"MAR03032",
-"name":"Octanoyl-CoA:L-carnitine O-octanoyltransferase",
+"name":"Capryloyl-CoA:L-carnitine O-octanoyltransferase",
 "metabolites":{
 "MAM01597c":-1.0,
 "MAM02348c":1.0,
@@ -183547,7 +183534,7 @@
 },
 {
 "id":"MAR00163",
-"name":"Octanoyl-CoA:L-carnitine O-octanoyltransferase",
+"name":"Capryloyl-CoA:L-carnitine O-octanoyltransferase",
 "metabolites":{
 "MAM01597m":-1.0,
 "MAM02348m":1.0,
@@ -186169,7 +186156,7 @@
 },
 {
 "id":"MAR03034",
-"name":"Octanoyl-CoA:L-carnitine O-octanoyltransferase",
+"name":"Capryloyl-CoA:L-carnitine O-octanoyltransferase",
 "metabolites":{
 "MAM01597x":-1.0,
 "MAM02348x":1.0,
@@ -190576,7 +190563,7 @@
 },
 {
 "id":"MAR03089",
-"name":"Decanoyl-CoA:acetyl-CoA C-acyltransferase",
+"name":"Capryl-CoA:acetyl-CoA C-acyltransferase",
 "metabolites":{
 "MAM00868x":-1.0,
 "MAM01261x":1.0,
@@ -190692,7 +190679,7 @@
 },
 {
 "id":"MAR03093",
-"name":"Octanoyl-CoA:acetyl-CoA C-acyltransferase",
+"name":"Capryloyl-CoA:acetyl-CoA C-acyltransferase",
 "metabolites":{
 "MAM00858x":-1.0,
 "MAM01261x":1.0,
@@ -190802,7 +190789,7 @@
 },
 {
 "id":"MAR03097",
-"name":"Hexanoyl-CoA:acetyl-CoA C-acyltransferase",
+"name":"Caproyl-CoA:acetyl-CoA C-acyltransferase",
 "metabolites":{
 "MAM00892x":-1.0,
 "MAM01261x":1.0,
@@ -193288,7 +193275,7 @@
 },
 {
 "id":"MAR03128",
-"name":"tetradecanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
+"name":"Myristoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
 "metabolites":{
 "MAM00066m":1.0,
 "MAM01802m":-1.0,
@@ -193511,7 +193498,7 @@
 },
 {
 "id":"MAR03139",
-"name":"Decanoyl-CoA:acetyl-CoA C-acyltransferase",
+"name":"Capryl-CoA:acetyl-CoA C-acyltransferase",
 "metabolites":{
 "MAM00868m":-1.0,
 "MAM01261m":1.0,
@@ -193546,7 +193533,7 @@
 },
 {
 "id":"MAR03142",
-"name":"decanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
+"name":"Capryl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
 "metabolites":{
 "MAM00039m":1.0,
 "MAM01650m":-1.0,
@@ -193662,7 +193649,7 @@
 },
 {
 "id":"MAR03146",
-"name":"Octanoyl-CoA:acetyl-CoA C-acyltransferase",
+"name":"Capryloyl-CoA:acetyl-CoA C-acyltransferase",
 "metabolites":{
 "MAM00858m":-1.0,
 "MAM01261m":1.0,
@@ -193703,7 +193690,7 @@
 },
 {
 "id":"MAR03149",
-"name":"octanoyl-CoA:electron-transfer flavoprotein 2-oxidoreductase",
+"name":"Capryloyl-CoA:electron-transfer flavoprotein 2-oxidoreductase",
 "metabolites":{
 "MAM00059m":1.0,
 "MAM01802m":-1.0,
@@ -193818,7 +193805,7 @@
 },
 {
 "id":"MAR03153",
-"name":"Hexanoyl-CoA:acetyl-CoA C-acyltransferase",
+"name":"Caproyl-CoA:acetyl-CoA C-acyltransferase",
 "metabolites":{
 "MAM00892m":-1.0,
 "MAM01261m":1.0,
@@ -193859,7 +193846,7 @@
 },
 {
 "id":"MAR03156",
-"name":"hexanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
+"name":"Caproyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase",
 "metabolites":{
 "MAM00053m":1.0,
 "MAM01802m":-1.0,
@@ -237406,7 +237393,7 @@
 },
 {
 "id":"MAR04498",
-"name":"[Acyl-carrier-protein] 4'-pantetheine-phosphohydrolase",
+"name":"[ACP] 4'-pantetheine-phosphohydrolase",
 "metabolites":{
 "MAM00184c":-1.0,
 "MAM01349c":1.0,
@@ -237436,7 +237423,7 @@
 },
 {
 "id":"MAR04499",
-"name":"[Acyl-carrier-protein] 4'-pantetheine-phosphohydrolase",
+"name":"[ACP] 4'-pantetheine-phosphohydrolase",
 "metabolites":{
 "MAM02039m":-1.0,
 "MAM02040m":1.0,
@@ -237463,7 +237450,7 @@
 },
 {
 "id":"MAR04500",
-"name":"CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase",
+"name":"CoA:apo-[ACP] pantetheinephosphotransferase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM01349c":-1.0,
@@ -254062,7 +254049,7 @@
 },
 {
 "id":"MAR09512",
-"name":"Tetradecanoyl-CoA:glycylpeptide N-tetradecanoyltransferase",
+"name":"Myristoyl-CoA:glycylpeptide N-myristoyltransferase",
 "metabolites":{
 "MAM01597c":-1.0,
 "MAM02005c":1.0,
@@ -325080,7 +325067,7 @@
 },
 {
 "id":"MAR00047",
-"name":"4-Hydroxybenzoyl Coenzyme A Formation",
+"name":"4-Hydroxybenzoyl-CoA Formation",
 "metabolites":{
 "MAM00982m":-1.0,
 "MAM00996m":1.0,
@@ -325605,7 +325592,7 @@
 },
 {
 "id":"MAR00069",
-"name":"Alpha-Methylacyl Coenzyme A Racemase (Reductase)",
+"name":"Alpha-Methylacyl-CoA Racemase (Reductase)",
 "metabolites":{
 "MAM00614x":-1.0,
 "MAM00755x":1.0,
@@ -325629,7 +325616,7 @@
 },
 {
 "id":"MAR00070",
-"name":"Alpha-Methylacyl Coenzyme A Racemase (Reductase)",
+"name":"Alpha-Methylacyl-CoA Racemase (Reductase)",
 "metabolites":{
 "MAM00614r":-1.0,
 "MAM00755r":1.0,
@@ -325653,7 +325640,7 @@
 },
 {
 "id":"MAR00071",
-"name":"Alpha-Methylacyl Coenzyme A Racemase",
+"name":"Alpha-Methylacyl-CoA Racemase",
 "metabolites":{
 "MAM00616r":-1.0,
 "MAM00618r":1.0
@@ -326519,7 +326506,7 @@
 },
 {
 "id":"MAR00108",
-"name":"Transport of Octadecenoyl Coenzyme A into Mitochondrial Matrix",
+"name":"Transport of Octadecenoyl-CoA into Mitochondrial Matrix",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02348c":-1.0,
@@ -326544,7 +326531,7 @@
 },
 {
 "id":"MAR00109",
-"name":"Transport of Octadecenoyl Coenzyme A into Mitochondrial Matrix",
+"name":"Transport of Octadecenoyl-CoA into Mitochondrial Matrix",
 "metabolites":{
 "MAM01597m":-1.0,
 "MAM02348m":1.0,
@@ -327189,7 +327176,7 @@
 },
 {
 "id":"MAR00135",
-"name":"P-Coumaroyl Coenzyme A Formation",
+"name":"P-Coumaroyl-CoA Formation",
 "metabolites":{
 "MAM00981m":-1.0,
 "MAM00982m":1.0,
@@ -327401,7 +327388,7 @@
 },
 {
 "id":"MAR00144",
-"name":"Palmitoyl Coenzyme A Desaturase (N-C16:0CoA -> N-C16:1CoA)",
+"name":"Palmitoyl-CoA Desaturase (N-C16:0CoA -> N-C16:1CoA)",
 "metabolites":{
 "MAM02039c":-1.0,
 "MAM02040c":2.0,
@@ -327429,7 +327416,7 @@
 },
 {
 "id":"MAR00145",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C18:2CoA -> N-C18:3CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C18:2CoA -> N-C18:3CoA)",
 "metabolites":{
 "MAM00108c":1.0,
 "MAM02039c":-1.0,
@@ -327456,7 +327443,7 @@
 },
 {
 "id":"MAR00146",
-"name":"Stearoyl Coenzyme A Desaturase (N-C18:0CoA -> N-C18:1CoA)",
+"name":"Stearoyl-CoA Desaturase (N-C18:0CoA -> N-C18:1CoA)",
 "metabolites":{
 "MAM02039c":-1.0,
 "MAM02040c":2.0,
@@ -327484,7 +327471,7 @@
 },
 {
 "id":"MAR00147",
-"name":"Stearoyl Coenzyme A Desaturase (N-C18:0CoA -> N-C18:1CoA)",
+"name":"Stearoyl-CoA Desaturase (N-C18:0CoA -> N-C18:1CoA)",
 "metabolites":{
 "MAM02039c":-1.0,
 "MAM02040c":2.0,
@@ -327512,7 +327499,7 @@
 },
 {
 "id":"MAR00148",
-"name":"Stearoyl Coenzyme A Desaturase (N-C18:0CoA -> N-C18:1CoA)",
+"name":"Stearoyl-CoA Desaturase (N-C18:0CoA -> N-C18:1CoA)",
 "metabolites":{
 "MAM00057c":1.0,
 "MAM02039c":-1.0,
@@ -327540,7 +327527,7 @@
 },
 {
 "id":"MAR00149",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C18:1CoA -> N-C18:2CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C18:1CoA -> N-C18:2CoA)",
 "metabolites":{
 "MAM00106c":1.0,
 "MAM02039c":-1.0,
@@ -327567,7 +327554,7 @@
 },
 {
 "id":"MAR00150",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C18:1CoA -> N-C18:2CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C18:1CoA -> N-C18:2CoA)",
 "metabolites":{
 "MAM00106c":1.0,
 "MAM02039c":-1.0,
@@ -327594,7 +327581,7 @@
 },
 {
 "id":"MAR00151",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C18:1CoA -> N-C18:2CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C18:1CoA -> N-C18:2CoA)",
 "metabolites":{
 "MAM00057c":-1.0,
 "MAM00106c":1.0,
@@ -327621,7 +327608,7 @@
 },
 {
 "id":"MAR00152",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C18:2CoA -> N-C18:3CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C18:2CoA -> N-C18:3CoA)",
 "metabolites":{
 "MAM01934c":1.0,
 "MAM02039c":-1.0,
@@ -327648,7 +327635,7 @@
 },
 {
 "id":"MAR00181",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C20:3CoA -> N-C20:4CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C20:3CoA -> N-C20:4CoA)",
 "metabolites":{
 "MAM01364c":1.0,
 "MAM01697c":-1.0,
@@ -327675,7 +327662,7 @@
 },
 {
 "id":"MAR00186",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C20:4CoA -> N-C20:5CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C20:4CoA -> N-C20:5CoA)",
 "metabolites":{
 "MAM00103c":1.0,
 "MAM00125c":-1.0,
@@ -327702,7 +327689,7 @@
 },
 {
 "id":"MAR00205",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C22:4CoA -> N-C22:5CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C22:4CoA -> N-C22:5CoA)",
 "metabolites":{
 "MAM00093x":1.0,
 "MAM00119x":-1.0,
@@ -327729,7 +327716,7 @@
 },
 {
 "id":"MAR00218",
-"name":"Fatty Acyl Coenzyme A Desaturase (N-C22:5CoA -> N-C22:6CoA)",
+"name":"Fatty Acyl-CoA Desaturase (N-C22:5CoA -> N-C22:6CoA)",
 "metabolites":{
 "MAM00095x":1.0,
 "MAM00121x":-1.0,
@@ -329628,7 +329615,7 @@
 },
 {
 "id":"MAR00723",
-"name":"Fatty-Acyl-Acp Hydrolase",
+"name":"Fatty-Acyl-ACP Hydrolase",
 "metabolites":{
 "MAM00128c":1.0,
 "MAM00184c":1.0,
@@ -329654,7 +329641,7 @@
 },
 {
 "id":"MAR00724",
-"name":"Fatty-Acyl-Acp Hydrolase",
+"name":"Fatty-Acyl-ACP Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329679,34 +329666,8 @@
 }
 },
 {
-"id":"MAR00725",
-"name":"Fatty-Acyl-Acp Hydrolase",
-"metabolites":{
-"MAM00184c":1.0,
-"MAM02039c":1.0,
-"MAM02040c":-1.0,
-"MAM02938c":1.0,
-"MAM03786c":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"ENSG00000152463",
-"subsystem":"Fatty acid oxidation",
-"notes":{
-"AUTHORS":"PMID:9159116",
-"Confidence Level":"0"
-},
-"annotation":{
-"bigg.reaction":"FA180ACPH",
-"ec-code":"3.1.2.14",
-"metanetx.reaction":"MNXR99106",
-"sbo":"SBO:0000176",
-"vmhreaction":"FA180ACPH"
-}
-},
-{
 "id":"MAR00726",
-"name":"Fatty-Acyl-Acp Hydrolase",
+"name":"Fatty-Acyl-ACP Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329732,7 +329693,7 @@
 },
 {
 "id":"MAR00727",
-"name":"Fatty-Acyl-Acp Hydrolase",
+"name":"Fatty-Acyl-ACP Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329758,7 +329719,7 @@
 },
 {
 "id":"MAR00728",
-"name":"Fatty-Acyl-Acp Hydrolase",
+"name":"Fatty-Acyl-ACP Hydrolase",
 "metabolites":{
 "MAM00104c":1.0,
 "MAM00184c":1.0,
@@ -329784,7 +329745,7 @@
 },
 {
 "id":"MAR00729",
-"name":"Fatty-Acyl-Acp Hydrolase",
+"name":"Fatty-Acyl-ACP Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -329891,7 +329852,7 @@
 },
 {
 "id":"MAR00743",
-"name":"Fatty-Acyl Coenzyme A Elongation (N-C18:3CoA)",
+"name":"Fatty-Acyl-CoA Elongation (N-C18:3CoA)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01597c":1.0,
@@ -329922,7 +329883,7 @@
 },
 {
 "id":"MAR00745",
-"name":"Fatty-Acyl Coenzyme A Elongation (N-C20:4CoA)",
+"name":"Fatty-Acyl-CoA Elongation (N-C20:4CoA)",
 "metabolites":{
 "MAM00108c":-1.0,
 "MAM00125c":1.0,
@@ -329953,7 +329914,7 @@
 },
 {
 "id":"MAR00747",
-"name":"Fatty-Acyl Coenzyme A Elongation (N-C20:4CoA)",
+"name":"Fatty-Acyl-CoA Elongation (N-C20:4CoA)",
 "metabolites":{
 "MAM00119c":1.0,
 "MAM01364c":-1.0,
@@ -329984,7 +329945,7 @@
 },
 {
 "id":"MAR00749",
-"name":"Fatty-Acyl Coenzyme A Elongation (N-C20:5CoA)",
+"name":"Fatty-Acyl-CoA Elongation (N-C20:5CoA)",
 "metabolites":{
 "MAM00103c":-1.0,
 "MAM00121c":1.0,
@@ -331180,17 +331141,17 @@
 },
 {
 "id":"MAR01012",
-"name":"Fatty Acyl Coenzyme A Synthase (N-C10:0CoA)",
+"name":"Fatty Acid Synthase (C8->C10)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01597c":1.0,
-"MAM01650c":1.0,
+"MAM01649c":1.0,
 "MAM02039c":-3.0,
 "MAM02040c":1.0,
 "MAM02444c":-1.0,
 "MAM02554c":2.0,
 "MAM02555c":-2.0,
-"MAM02644c":-1.0
+"MAM02643c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -331210,14 +331171,14 @@
 },
 {
 "id":"MAR01019",
-"name":"Fatty-Acyl Coenzyme A Synthase (N-C12:0CoA)",
+"name":"Fatty Acid Synthase (C10->C12)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01597c":1.0,
-"MAM01650c":-1.0,
+"MAM01649c":-1.0,
+"MAM01728c":1.0,
 "MAM02039c":-3.0,
 "MAM02040c":1.0,
-"MAM02345c":1.0,
 "MAM02444c":-1.0,
 "MAM02554c":2.0,
 "MAM02555c":-2.0
@@ -331240,17 +331201,17 @@
 },
 {
 "id":"MAR01024",
-"name":"Fatty-Acyl Coenzyme A Synthase (N-C14:0CoA)",
+"name":"Fatty Acid Synthase (C12->C14)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01597c":1.0,
+"MAM01728c":-1.0,
 "MAM02039c":-3.0,
 "MAM02040c":1.0,
-"MAM02345c":-1.0,
 "MAM02444c":-1.0,
-"MAM02495c":1.0,
 "MAM02554c":2.0,
-"MAM02555c":-2.0
+"MAM02555c":-2.0,
+"MAM02972c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -331270,17 +331231,17 @@
 },
 {
 "id":"MAR01031",
-"name":"Fatty-Acyl Coenzyme A Synthase (N-C16:0CoA)",
+"name":"Fatty Acid Synthase (C14->C16)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01597c":1.0,
 "MAM02039c":-3.0,
 "MAM02040c":1.0,
+"MAM02115c":1.0,
 "MAM02444c":-1.0,
-"MAM02495c":-1.0,
 "MAM02554c":2.0,
 "MAM02555c":-2.0,
-"MAM02678c":1.0
+"MAM02972c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -331300,17 +331261,17 @@
 },
 {
 "id":"MAR01032",
-"name":"Fatty-Acyl Coenzyme A Synthase (N-C18:0CoA)",
+"name":"Fatty Acid Synthase (C16->C18)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01597c":1.0,
 "MAM02039c":-3.0,
 "MAM02040c":1.0,
+"MAM02115c":-1.0,
 "MAM02444c":-1.0,
 "MAM02554c":2.0,
 "MAM02555c":-2.0,
-"MAM02678c":-1.0,
-"MAM02941c":1.0
+"MAM03389c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -331330,7 +331291,7 @@
 },
 {
 "id":"MAR01036",
-"name":"Fatty Acyl Coenzyme A Synthase (N-C8:0CoA), Lumped Reaction",
+"name":"Fatty Acid Synthase (C2->C8), Lumped Reaction",
 "metabolites":{
 "MAM01261c":-1.0,
 "MAM01596c":3.0,
@@ -331343,7 +331304,7 @@
 "MAM02644c":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000.0,
+"upper_bound":0.0,
 "gene_reaction_rule":"ENSG00000169710",
 "subsystem":"Fatty acid biosynthesis",
 "notes":{
@@ -332244,7 +332205,7 @@
 },
 {
 "id":"MAR01438",
-"name":"Transport of Trans-Hexadec-2-Enoyl Coenzyme A",
+"name":"Transport of Trans-Hexadec-2-Enoyl-CoA",
 "metabolites":{
 "MAM00051c":-1.0,
 "MAM00051x":1.0
@@ -333358,7 +333319,7 @@
 },
 {
 "id":"MAR01517",
-"name":"Malonyl Coenzyme A-Acp Transacylase, Mitochondrial",
+"name":"Malonyl CoA-ACP Transacylase, Mitochondrial",
 "metabolites":{
 "MAM00184m":-1.0,
 "MAM01597m":1.0,
@@ -334885,7 +334846,7 @@
 },
 {
 "id":"MAR01647",
-"name":"Transport of Pristanoyl Coenzyme A, Peroxisomal",
+"name":"Transport of Pristanoyl-CoA, Peroxisomal",
 "metabolites":{
 "MAM03887c":1.0,
 "MAM03887x":-1.0
@@ -335002,7 +334963,7 @@
 },
 {
 "id":"MAR01655",
-"name":"Propenoyl Coenzyme A Hydrolase, Peroxisomal",
+"name":"Propenoyl-CoA Hydrolase, Peroxisomal",
 "metabolites":{
 "MAM00799x":1.0,
 "MAM01265x":-1.0,
@@ -335172,7 +335133,7 @@
 },
 {
 "id":"MAR01674",
-"name":"Peroxisomal Acyl Coenzyme A Thioesterase",
+"name":"Peroxisomal Acyl-CoA Thioesterase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -335197,7 +335158,7 @@
 },
 {
 "id":"MAR01675",
-"name":"Peroxisomal Acyl Coenzyme A Thioesterase",
+"name":"Peroxisomal Acyl-CoA Thioesterase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -335222,7 +335183,7 @@
 },
 {
 "id":"MAR01677",
-"name":"Peroxisomal Acyl Coenzyme A Thioesterase",
+"name":"Peroxisomal Acyl-CoA Thioesterase",
 "metabolites":{
 "MAM00119x":-1.0,
 "MAM01291x":1.0,
@@ -337056,7 +337017,7 @@
 },
 {
 "id":"MAR02028",
-"name":"Trans-Hexadec-2-Enoyl Coenzyme A Reductase",
+"name":"Trans-Hexadec-2-Enoyl-CoA Reductase",
 "metabolites":{
 "MAM00051m":1.0,
 "MAM02039m":1.0,
@@ -337137,7 +337098,7 @@
 },
 {
 "id":"MAR02121",
-"name":"Palmitoyl Coenzyme A:L-Carnitine O-Palmitoyltransferase",
+"name":"Palmitoyl-CoA:L-Carnitine O-Palmitoyltransferase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02348x":-1.0,
@@ -337162,7 +337123,7 @@
 },
 {
 "id":"MAR02122",
-"name":"Palmitoyl Coenzyme A:L-Carnitine O-Palmitoyltransferase",
+"name":"Palmitoyl-CoA:L-Carnitine O-Palmitoyltransferase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02348x":-1.0,
@@ -337187,7 +337148,7 @@
 },
 {
 "id":"MAR02123",
-"name":"Palmitoyl Coenzyme A:L-Carnitine O-Palmitoyltransferase",
+"name":"Palmitoyl-CoA:L-Carnitine O-Palmitoyltransferase",
 "metabolites":{
 "MAM01363x":1.0,
 "MAM01364x":-1.0,
@@ -337272,7 +337233,7 @@
 },
 {
 "id":"MAR02126",
-"name":"Steroyl Coenzyme A, Hydrogen-Donor:Oxygen Oxidoreductase Polyunsaturated Fatty Acid Biosynthesis",
+"name":"Steroyl-CoA, Hydrogen-Donor:Oxygen Oxidoreductase Polyunsaturated Fatty Acid Biosynthesis",
 "metabolites":{
 "MAM01823c":2.0,
 "MAM01825c":-2.0,
@@ -337299,7 +337260,7 @@
 },
 {
 "id":"MAR02128",
-"name":"Steroyl Coenzyme A, Hydrogen-Donor:Oxygen Oxidoreductase Polyunsaturated Fatty Acid Biosynthesis",
+"name":"Steroyl-CoA, Hydrogen-Donor:Oxygen Oxidoreductase Polyunsaturated Fatty Acid Biosynthesis",
 "metabolites":{
 "MAM01823c":2.0,
 "MAM01825c":-2.0,
@@ -337382,7 +337343,7 @@
 },
 {
 "id":"MAR02148",
-"name":"Trans-Oct-2-Enoyl Coenzyme A Reductase",
+"name":"Trans-Oct-2-Enoyl-CoA Reductase",
 "metabolites":{
 "MAM00059m":1.0,
 "MAM02039m":1.0,
@@ -337411,7 +337372,7 @@
 },
 {
 "id":"MAR02149",
-"name":"Trans-Dodec-2-Enoyl Coenzyme A Reductase",
+"name":"Trans-Dodec-2-Enoyl-CoA Reductase",
 "metabolites":{
 "MAM00042m":1.0,
 "MAM02039m":1.0,
@@ -337437,7 +337398,7 @@
 },
 {
 "id":"MAR02183",
-"name":"Trans-Tetradec-2-Enoyl Coenzyme A Reductase",
+"name":"Trans-Tetradec-2-Enoyl-CoA Reductase",
 "metabolites":{
 "MAM00066m":1.0,
 "MAM02039m":1.0,
@@ -337515,7 +337476,7 @@
 },
 {
 "id":"MAR02187",
-"name":"Trans-Dec-2-Enoyl Coenzyme A Reductase",
+"name":"Trans-Dec-2-Enoyl-CoA Reductase",
 "metabolites":{
 "MAM00039m":1.0,
 "MAM01650m":-1.0,
@@ -337791,7 +337752,7 @@
 },
 {
 "id":"MAR02207",
-"name":"Trans-Hex-2-Enoyl Coenzyme A Reductase",
+"name":"Trans-Hex-2-Enoyl-CoA Reductase",
 "metabolites":{
 "MAM00053m":1.0,
 "MAM02039m":1.0,
@@ -338744,7 +338705,7 @@
 },
 {
 "id":"MAR02322",
-"name":"3-Oxoacyl-Acp Synthase, Mitochondrial Polyunsaturated Fatty Acid Biosynthesis",
+"name":"3-Oxoacyl-ACP Synthase, Mitochondrial Polyunsaturated Fatty Acid Biosynthesis",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM01596c":1.0,
@@ -338839,7 +338800,7 @@
 },
 {
 "id":"MAR02329",
-"name":"Oleoyl-Acp Hydrolase",
+"name":"Stearoyl-[ACP] Hydrolase",
 "metabolites":{
 "MAM00184c":1.0,
 "MAM02039c":1.0,
@@ -339152,7 +339113,7 @@
 },
 {
 "id":"MAR02375",
-"name":"Long-Chain-Acyl Coenzyme A Dehydrogenase",
+"name":"Long-Chain-Acyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM01596r":4.0,
 "MAM01597r":2.0,
@@ -339226,7 +339187,7 @@
 },
 {
 "id":"MAR02381",
-"name":"Long-Chain-Acyl Coenzyme A Dehydrogenase",
+"name":"Long-Chain-Acyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00893m":-1.0,
 "MAM01261m":1.0,
@@ -340042,7 +340003,7 @@
 },
 {
 "id":"MAR02487",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM02039m":1.0,
@@ -340068,7 +340029,7 @@
 },
 {
 "id":"MAR02488",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -340094,7 +340055,7 @@
 },
 {
 "id":"MAR02492",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00083c":-1.0,
 "MAM00884c":1.0,
@@ -340209,7 +340170,7 @@
 },
 {
 "id":"MAR02500",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM01771m":1.0,
@@ -340239,7 +340200,7 @@
 },
 {
 "id":"MAR02502",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM01771x":1.0,
@@ -340269,7 +340230,7 @@
 },
 {
 "id":"MAR02504",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01373m":1.0,
 "MAM01597m":1.0,
@@ -340295,7 +340256,7 @@
 },
 {
 "id":"MAR02506",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01373x":1.0,
 "MAM01597x":1.0,
@@ -340321,7 +340282,7 @@
 },
 {
 "id":"MAR02507",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM02039m":1.0,
@@ -340347,7 +340308,7 @@
 },
 {
 "id":"MAR02508",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -341674,7 +341635,7 @@
 },
 {
 "id":"MAR02820",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00081c":-1.0,
 "MAM00855c":1.0,
@@ -341700,7 +341661,7 @@
 },
 {
 "id":"MAR02826",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00696c":-1.0,
 "MAM00854c":1.0,
@@ -341726,7 +341687,7 @@
 },
 {
 "id":"MAR02828",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00082c":-1.0,
 "MAM00883c":1.0,
@@ -342208,7 +342169,7 @@
 },
 {
 "id":"MAR02940",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM01434m":-1.0,
 "MAM01435m":1.0,
@@ -344091,7 +344052,7 @@
 },
 {
 "id":"MAR03266",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00177c":-1.0,
 "MAM00894c":1.0,
@@ -344117,7 +344078,7 @@
 },
 {
 "id":"MAR03267",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00886c":1.0,
 "MAM01574c":-1.0,
@@ -344143,7 +344104,7 @@
 },
 {
 "id":"MAR03268",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM02039c":1.0,
 "MAM02552c":-1.0,
@@ -344169,7 +344130,7 @@
 },
 {
 "id":"MAR03269",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM02039m":1.0,
 "MAM02552m":-1.0,
@@ -344193,7 +344154,7 @@
 },
 {
 "id":"MAR03270",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM02039x":1.0,
 "MAM02552x":-1.0,
@@ -344390,7 +344351,7 @@
 },
 {
 "id":"MAR03297",
-"name":"Enoyl Coenzyme A Hydratase",
+"name":"Enoyl-CoA Hydratase",
 "metabolites":{
 "MAM02040m":-1.0,
 "MAM03333m":-1.0,
@@ -344412,7 +344373,7 @@
 },
 {
 "id":"MAR03299",
-"name":"Enoyl Coenzyme A Hydratase",
+"name":"Enoyl-CoA Hydratase",
 "metabolites":{
 "MAM02040x":-1.0,
 "MAM03333x":-1.0,
@@ -344640,7 +344601,7 @@
 },
 {
 "id":"MAR03366",
-"name":"Acyl Coenzyme A Oxidase",
+"name":"Acyl-CoA Oxidase",
 "metabolites":{
 "MAM00682m":1.0,
 "MAM01364m":-1.0,
@@ -344664,7 +344625,7 @@
 },
 {
 "id":"MAR03371",
-"name":"Acyl Coenzyme A Oxidase",
+"name":"Acyl-CoA Oxidase",
 "metabolites":{
 "MAM01576m":-1.0,
 "MAM02041m":1.0,
@@ -344688,7 +344649,7 @@
 },
 {
 "id":"MAR03374",
-"name":"Dodecenoyl Coenzyme A Isomerase",
+"name":"Dodecenoyl-CoA Isomerase",
 "metabolites":{
 "MAM03030m":-1.0,
 "MAM03358m":1.0
@@ -344732,7 +344693,7 @@
 },
 {
 "id":"MAR03377",
-"name":"2,4-Dienoyl Coenzyme A Reductase (NADPH)",
+"name":"2,4-Dienoyl-CoA Reductase (NADPH)",
 "metabolites":{
 "MAM02039m":-1.0,
 "MAM02554m":1.0,
@@ -344757,7 +344718,7 @@
 },
 {
 "id":"MAR03378",
-"name":"Dodecenoyl Coenzyme A Isomerase",
+"name":"Dodecenoyl-CoA Isomerase",
 "metabolites":{
 "MAM03360m":1.0,
 "MAM03361m":-1.0
@@ -344779,7 +344740,7 @@
 },
 {
 "id":"MAR03379",
-"name":"Enoyl Coenzyme A Hydratase",
+"name":"Enoyl-CoA Hydratase",
 "metabolites":{
 "MAM02040m":-1.0,
 "MAM03350m":1.0,
@@ -344802,7 +344763,7 @@
 },
 {
 "id":"MAR03380",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM02039m":1.0,
 "MAM02552m":-1.0,
@@ -344895,7 +344856,7 @@
 },
 {
 "id":"MAR03384",
-"name":"Phytanoyl Coenzyme A Dioxygenase",
+"name":"Phytanoyl-CoA Dioxygenase",
 "metabolites":{
 "MAM01306x":-1.0,
 "MAM01596x":1.0,
@@ -346976,7 +346937,7 @@
 },
 {
 "id":"MAR03756",
-"name":"Enoyl Coenzyme A Hydratase",
+"name":"Enoyl-CoA Hydratase",
 "metabolites":{
 "MAM00749x":-1.0,
 "MAM02040x":-1.0,
@@ -347001,7 +346962,7 @@
 },
 {
 "id":"MAR03758",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM02039c":1.0,
 "MAM02552c":-1.0,
@@ -347027,7 +346988,7 @@
 },
 {
 "id":"MAR03764",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00748x":1.0,
 "MAM02039x":1.0,
@@ -347394,7 +347355,7 @@
 },
 {
 "id":"MAR03808",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00689c":-1.0,
 "MAM00740c":1.0,
@@ -347420,7 +347381,7 @@
 },
 {
 "id":"MAR03810",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM00835c":1.0,
 "MAM00836c":-1.0,
@@ -347446,7 +347407,7 @@
 },
 {
 "id":"MAR03812",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00690c":-1.0,
 "MAM00741c":1.0,
@@ -347472,7 +347433,7 @@
 },
 {
 "id":"MAR03814",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM00837c":1.0,
 "MAM00838c":-1.0,
@@ -347773,7 +347734,7 @@
 },
 {
 "id":"MAR03844",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM00687c":1.0,
 "MAM00688c":-1.0,
@@ -347880,7 +347841,7 @@
 },
 {
 "id":"MAR03876",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00691c":-1.0,
 "MAM00846c":1.0,
@@ -348837,7 +348798,7 @@
 },
 {
 "id":"MAR03981",
-"name":"Palmitoyl Coenzyme A Hydrolase",
+"name":"Palmitoyl-CoA Hydrolase",
 "metabolites":{
 "MAM00421c":-1.0,
 "MAM01597c":1.0,
@@ -348863,7 +348824,7 @@
 },
 {
 "id":"MAR03983",
-"name":"3-Hydroxyacyl Coenzyme A Dehydrogenase",
+"name":"3-Hydroxyacyl-CoA Dehydrogenase",
 "metabolites":{
 "MAM00420c":1.0,
 "MAM00581c":-1.0,
@@ -348966,7 +348927,7 @@
 },
 {
 "id":"MAR03997",
-"name":"Acyl Coenzyme A Oxidase",
+"name":"Acyl-CoA Oxidase",
 "metabolites":{
 "MAM02041m":1.0,
 "MAM02630m":-1.0,
@@ -348990,7 +348951,7 @@
 },
 {
 "id":"MAR04001",
-"name":"Acyl Coenzyme A Oxidase",
+"name":"Acyl-CoA Oxidase",
 "metabolites":{
 "MAM01802x":-1.0,
 "MAM01803x":1.0,
@@ -349013,7 +348974,7 @@
 },
 {
 "id":"MAR04003",
-"name":"Acyl Coenzyme A Oxidase",
+"name":"Acyl-CoA Oxidase",
 "metabolites":{
 "MAM00678m":1.0,
 "MAM00980m":-1.0,
@@ -351514,7 +351475,7 @@
 },
 {
 "id":"MAR04438",
-"name":"Transport of 2-Methylcrotonoyl Coenzyme A into Cytosol",
+"name":"Transport of 2-Methylcrotonoyl-CoA into Cytosol",
 "metabolites":{
 "MAM02999c":1.0,
 "MAM02999m":-1.0
@@ -351536,7 +351497,7 @@
 },
 {
 "id":"MAR04439",
-"name":"Transport of (R)-3-Hydroxybutanoyl Coenzyme A into Cytosol",
+"name":"Transport of (R)-3-Hydroxybutanoyl-CoA into Cytosol",
 "metabolites":{
 "MAM00159c":1.0,
 "MAM00159m":-1.0
@@ -351630,7 +351591,7 @@
 },
 {
 "id":"MAR04447",
-"name":"Thioesterification of Adipoyl Coenzyme A for Release into Cytosol",
+"name":"Thioesterification of Adipoyl-CoA for Release into Cytosol",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -351818,7 +351779,7 @@
 },
 {
 "id":"MAR04509",
-"name":"Thioesterification of Dodecanedioyl Coenzyme A for Release into Cytosol",
+"name":"Thioesterification of Dodecanedioyl-CoA for Release into Cytosol",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -351912,7 +351873,7 @@
 },
 {
 "id":"MAR04566",
-"name":"Transport of 3-Hydroxytetradecenoyl Coenzyme A from Mitochondria into Cytosol",
+"name":"Transport of 3-Hydroxytetradecenoyl-CoA from Mitochondria into Cytosol",
 "metabolites":{
 "MAM03263c":1.0,
 "MAM03263m":-1.0
@@ -351979,7 +351940,7 @@
 },
 {
 "id":"MAR04578",
-"name":"Transport of 3-Hydroxytetradeca Dienoyl Coenzyme A from Mitochondria into Cytosol",
+"name":"Transport of 3-Hydroxytetradeca Dienoyl-CoA from Mitochondria into Cytosol",
 "metabolites":{
 "MAM03267c":1.0,
 "MAM03267m":-1.0
@@ -352983,7 +352944,7 @@
 },
 {
 "id":"MAR04828",
-"name":"Exchange of 3-Hydroxy-Tetradecanoyl Carnitine",
+"name":"Exchange of 3-Hydroxytetradecanoylcarnitine",
 "metabolites":{
 "MAM03262e":-1.0
 },
@@ -353079,7 +353040,7 @@
 },
 {
 "id":"MAR04859",
-"name":"Exchange of Decanoyl Carnitine",
+"name":"Exchange of Caprylcarnitine",
 "metabolites":{
 "MAM03488e":-1.0
 },
@@ -357152,7 +357113,7 @@
 },
 {
 "id":"MAR06487",
-"name":"Transport of (S)-3-Hydroxydecanoyl Coenzyme A from Mitochondria into the Cytosol",
+"name":"Transport of (S)-3-Hydroxydecanoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM00181c":1.0,
 "MAM00181m":-1.0
@@ -357174,7 +357135,7 @@
 },
 {
 "id":"MAR06489",
-"name":"Transport of (S)-3-Hydroxydodecanoyl Coenzyme A from Mitochondria into the Cytosol",
+"name":"Transport of (S)-3-Hydroxydodecanoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM00174c":1.0,
 "MAM00174m":-1.0
@@ -357323,7 +357284,7 @@
 },
 {
 "id":"MAR06528",
-"name":"Transport of (S)-3-Hydroxyoctadecanoyl Coenzyme A from Mitochondria into the Cytosol",
+"name":"Transport of (S)-3-Hydroxyoctadecanoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM03230c":1.0,
 "MAM03230m":-1.0
@@ -357365,7 +357326,7 @@
 },
 {
 "id":"MAR06586",
-"name":"Transport of (S)-3-Hydroxytetradecanoyl Coenzyme A from Mitochondria into the Cytosol",
+"name":"Transport of (S)-3-Hydroxytetradecanoyl-CoA from Mitochondria into the Cytosol",
 "metabolites":{
 "MAM00178c":1.0,
 "MAM00178m":-1.0
@@ -357559,7 +357520,7 @@
 },
 {
 "id":"MAR06688",
-"name":"Transport of 3-Hydroxyoctadecadienoyl Coenzyme A from Mitochondria into Cytosol",
+"name":"Transport of 3-Hydroxyoctadecadienoyl-CoA from Mitochondria into Cytosol",
 "metabolites":{
 "MAM03249c":1.0,
 "MAM03249m":-1.0
@@ -357580,7 +357541,7 @@
 },
 {
 "id":"MAR06689",
-"name":"Transport of Octadecenoyl Coenzyme A into Mitochondrial Matrix",
+"name":"Transport of Octadecenoyl-CoA into Mitochondrial Matrix",
 "metabolites":{
 "MAM03793c":-1.0,
 "MAM03793m":1.0
@@ -357601,7 +357562,7 @@
 },
 {
 "id":"MAR06696",
-"name":"Transport of Octadecenoyl Coenzyme A into Mitochondrial Matrix",
+"name":"Transport of Octadecenoyl-CoA into Mitochondrial Matrix",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02348c":-1.0,
@@ -357624,7 +357585,7 @@
 },
 {
 "id":"MAR06698",
-"name":"Transport of Octadecenoyl Coenzyme A into Mitochondrial Matrix",
+"name":"Transport of Octadecenoyl-CoA into Mitochondrial Matrix",
 "metabolites":{
 "MAM01597m":-1.0,
 "MAM02348m":1.0,
@@ -357888,7 +357849,7 @@
 },
 {
 "id":"MAR06812",
-"name":"Transport of Stearoyl Coenzyme A from Cytosol to Peroxisomes",
+"name":"Transport of Stearoyl-CoA from Cytosol to Peroxisomes",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -359399,7 +359360,7 @@
 },
 {
 "id":"MAR07190",
-"name":"Transport of Palmitoyl Coenzyme A",
+"name":"Transport of Palmitoyl-CoA",
 "metabolites":{
 "MAM02678c":-2.0,
 "MAM02678r":2.0
@@ -364484,7 +364445,7 @@
 },
 {
 "id":"MAR09916",
-"name":"Transport of O-Octadecanoyl-R-Carnitine",
+"name":"Transport of Stearoylcarnitine",
 "metabolites":{
 "MAM02519c":-1.0,
 "MAM02519e":1.0,
@@ -365244,7 +365205,7 @@
 },
 {
 "id":"MAR09948",
-"name":"Acyl-CoA Hydrolase, Cis, Cis-11, 14-Eicosadienoyl Coenzyme A",
+"name":"Acyl-CoA Hydrolase, Cis, Cis-11, 14-Eicosadienoyl-CoA",
 "metabolites":{
 "MAM00009c":-1.0,
 "MAM01597c":1.0,
@@ -365268,7 +365229,7 @@
 },
 {
 "id":"MAR09950",
-"name":"Hydrolysis of Tetradecadienoyl Coenzyme A to Cis-5, 8-Tetradecadienoic Acid",
+"name":"Hydrolysis of Tetradecadienoyl-CoA to Cis-5, 8-Tetradecadienoic Acid",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02039c":1.0,
@@ -365521,7 +365482,7 @@
 },
 {
 "id":"MAR09961",
-"name":"Transport of Tetradecanoyl Carnitine, Sodium Symport",
+"name":"Transport of Myristoylcarnitine, Sodium Symport",
 "metabolites":{
 "MAM02519c":-1.0,
 "MAM02519e":1.0,
@@ -367681,7 +367642,7 @@
 },
 {
 "id":"MAR10166",
-"name":"Transport of Cis, Cis-11, 14-Eicosadienoyl Coenzyme A, Active Transport",
+"name":"Transport of Cis, Cis-11, 14-Eicosadienoyl-CoA, Active Transport",
 "metabolites":{
 "MAM01285c":1.0,
 "MAM01371c":-1.0,
@@ -367707,7 +367668,7 @@
 },
 {
 "id":"MAR10167",
-"name":"Transport of Cis, Cis-11, 14-Eicosadienoyl Coenzyme A, Diffusion",
+"name":"Transport of Cis, Cis-11, 14-Eicosadienoyl-CoA, Diffusion",
 "metabolites":{
 "MAM03569c":-1.0,
 "MAM03569e":1.0
@@ -371062,7 +371023,7 @@
 },
 {
 "id":"MAR10341",
-"name":"Exchange of C14:0-Ethanolamide, Tetradecanoyl Ethanolamide",
+"name":"Exchange of Myristoyl Ethanolamide",
 "metabolites":{
 "MAM03977e":-1.0
 },
@@ -371770,7 +371731,7 @@
 },
 {
 "id":"MAR10374",
-"name":"Hexanoyl-CoA hydrolase, Mitochondrial",
+"name":"Caproyl-CoA hydrolase, Mitochondrial",
 "metabolites":{
 "MAM01597m":1.0,
 "MAM02039m":1.0,
@@ -371833,7 +371794,7 @@
 },
 {
 "id":"MAR10377",
-"name":"Hexanoyl-CoA hydrolase, Peroxisome",
+"name":"Caproyl-CoA hydrolase, Peroxisome",
 "metabolites":{
 "MAM01597x":1.0,
 "MAM02039x":1.0,
@@ -373529,7 +373490,7 @@
 },
 {
 "id":"MAR10457",
-"name":"Benzoyl Coenzyme A Formation",
+"name":"Benzoyl-CoA Formation",
 "metabolites":{
 "MAM01334m":1.0,
 "MAM01371m":-1.0,
@@ -390241,7 +390202,7 @@
 },
 {
 "id":"MAR11246",
-"name":"Transport of 3-Hydroxy-Tetradecanoyl Carnitine",
+"name":"Transport of 3-Hydroxytetradecanoyl Carnitine",
 "metabolites":{
 "MAM03262c":1.0,
 "MAM03262e":-1.0
@@ -390382,7 +390343,7 @@
 },
 {
 "id":"MAR11252",
-"name":"Transport of Decanoyl Carnitine",
+"name":"Transport of Caprylcarnitine",
 "metabolites":{
 "MAM03488c":1.0,
 "MAM03488e":-1.0
@@ -390903,7 +390864,7 @@
 },
 {
 "id":"MAR11277",
-"name":"Transport of O-Octadecanoyl-R-Carnitine",
+"name":"Transport of Stearoylcarnitine",
 "metabolites":{
 "MAM02940c":1.0,
 "MAM02940e":-1.0
@@ -390971,7 +390932,7 @@
 },
 {
 "id":"MAR11280",
-"name":"Transport of Tetradecanoyl Carnitine",
+"name":"Transport of Myristoylcarnitine",
 "metabolites":{
 "MAM02974c":1.0,
 "MAM02974e":-1.0
@@ -391214,7 +391175,7 @@
 },
 {
 "id":"MAR11294",
-"name":"Hydrolysis of Fatty Acyl Coenzyme A (14:1)",
+"name":"Hydrolysis of Fatty Acyl-CoA (14:1)",
 "metabolites":{
 "MAM00128c":1.0,
 "MAM01597c":1.0,
@@ -395962,7 +395923,7 @@
 },
 {
 "id":"MAR11513",
-"name":"Acyl Coenzyme A Dehydrogenase for Glutaryl Coenzyme A, Forming Trans-Delta-2-Glutaryl Coenzyme A",
+"name":"Acyl-CoA Dehydrogenase for Glutaryl Coenzyme A, Forming Trans-Delta-2-Glutaryl Coenzyme A",
 "metabolites":{
 "MAM01802m":-1.0,
 "MAM01803m":1.0,
@@ -395986,7 +395947,7 @@
 },
 {
 "id":"MAR11514",
-"name":"Acyl Coenzyme A Dehydrogenase for Glutaryl Coenzyme A, Forming 3-Hydroxy-Glutaryl Coenzyme A",
+"name":"Acyl-CoA Dehydrogenase for Glutaryl Coenzyme A, Forming 3-Hydroxy-Glutaryl Coenzyme A",
 "metabolites":{
 "MAM02040m":-1.0,
 "MAM03222m":1.0,
@@ -396667,7 +396628,7 @@
 },
 {
 "id":"MAR11544",
-"name":"Hexanoyl-CoA hydrolase",
+"name":"Caproyl-CoA hydrolase",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02039c":1.0,
@@ -396915,7 +396876,7 @@
 },
 {
 "id":"MAR11555",
-"name":"Formation of Hexanoyl-Glycine",
+"name":"Formation of N-Caproylglycine",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM01986c":-1.0,
@@ -396940,7 +396901,7 @@
 },
 {
 "id":"MAR11556",
-"name":"Transport of Hexanoyl-Glycine",
+"name":"Transport of N-Caproylglycine",
 "metabolites":{
 "MAM03660c":-1.0,
 "MAM03660e":1.0
@@ -396961,7 +396922,7 @@
 },
 {
 "id":"MAR11557",
-"name":"Exchange of Hexanoyl-Glycine",
+"name":"Exchange of N-Caproylglycine",
 "metabolites":{
 "MAM03660e":-1.0
 },
@@ -401235,7 +401196,7 @@
 },
 {
 "id":"MAR11749",
-"name":"Hydrolysis of Trans, Cis, Cis-2, 11, 14-Eicosatrienoyl Coenzyme A to Trans, Cis, Cis-2, 11, 14-Eicosatrienoic Acid",
+"name":"Hydrolysis of Trans, Cis, Cis-2, 11, 14-Eicosatrienoyl-CoA to Trans, Cis, Cis-2, 11, 14-Eicosatrienoic Acid",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02039c":1.0,
@@ -437251,7 +437212,7 @@
 },
 {
 "id":"MAR20170",
-"name":"Octanoyl-CoA hydrolase",
+"name":"Capryloyl-CoA hydrolase",
 "metabolites":{
 "MAM01597c":1.0,
 "MAM02039c":1.0,
@@ -437711,6 +437672,69 @@
 "gene_reaction_rule":"",
 "annotation":{
 "sbo":"SBO:0000629"
+}
+},
+{
+"id":"MAR20189",
+"name":"Fatty Acid Synthase (C2->C4)",
+"metabolites":{
+"MAM01258c":-1.0,
+"MAM01411c":1.0,
+"MAM01596c":1.0,
+"MAM01597c":1.0,
+"MAM02039c":-3.0,
+"MAM02040c":1.0,
+"MAM02444c":-1.0,
+"MAM02554c":2.0,
+"MAM02555c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"annotation":{
+"sbo":"SBO:0000176"
+}
+},
+{
+"id":"MAR20190",
+"name":"Fatty Acid Synthase (C4->C6)",
+"metabolites":{
+"MAM01411c":-1.0,
+"MAM01596c":1.0,
+"MAM01597c":1.0,
+"MAM02039c":-3.0,
+"MAM02040c":1.0,
+"MAM02121c":1.0,
+"MAM02444c":-1.0,
+"MAM02554c":2.0,
+"MAM02555c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"annotation":{
+"sbo":"SBO:0000176"
+}
+},
+{
+"id":"MAR20191",
+"name":"Fatty Acid Synthase (C6->C8)",
+"metabolites":{
+"MAM01596c":1.0,
+"MAM01597c":1.0,
+"MAM02039c":-3.0,
+"MAM02040c":1.0,
+"MAM02121c":-1.0,
+"MAM02444c":-1.0,
+"MAM02554c":2.0,
+"MAM02555c":-2.0,
+"MAM02643c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"annotation":{
+"sbo":"SBO:0000176"
 }
 }
 ],
