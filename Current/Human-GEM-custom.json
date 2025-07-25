@@ -126864,7 +126864,7 @@
 },
 {
 "id":"MAR04101",
-"name":"GTP:oxaloacetate carboxy-lyase (adding GTP",
+"name":"GTP:oxaloacetate carboxy-lyase (adding GTP)",
 "metabolites":{
 "MAM01596c":1.0,
 "MAM01948c":1.0,
@@ -126895,7 +126895,7 @@
 },
 {
 "id":"MAR04103",
-"name":"GTP:oxaloacetate carboxy-lyase (adding GTP",
+"name":"GTP:oxaloacetate carboxy-lyase (adding GTP)",
 "metabolites":{
 "MAM01596m":1.0,
 "MAM01948m":1.0,
@@ -128937,7 +128937,7 @@
 },
 {
 "id":"MAR04000",
-"name":"ATP diphosphate-lyase (cyclizing",
+"name":"ATP diphosphate-lyase (cyclizing)",
 "metabolites":{
 "MAM01371c":-1.0,
 "MAM01419c":1.0,
@@ -129204,7 +129204,7 @@
 },
 {
 "id":"MAR04022",
-"name":"GTP diphosphate-lyase (cyclizing",
+"name":"GTP diphosphate-lyase (cyclizing)",
 "metabolites":{
 "MAM01433c":1.0,
 "MAM02034c":-1.0,
@@ -133798,7 +133798,7 @@
 },
 {
 "id":"MAR07744",
-"name":"uracil hydro-lyase (adding D-ribose 5-phosphate",
+"name":"uracil hydro-lyase (adding D-ribose 5-phosphate)",
 "metabolites":{
 "MAM02040c":-1.0,
 "MAM02807c":-1.0,
@@ -142520,7 +142520,7 @@
 },
 {
 "id":"MAR09486",
-"name":"O-phospho-L-homoserine phosphate-lyase (adding water",
+"name":"O-phospho-L-homoserine phosphate-lyase (adding water)",
 "metabolites":{
 "MAM02040c":-1.0,
 "MAM02655c":-1.0,
@@ -149640,7 +149640,7 @@
 },
 {
 "id":"MAR03879",
-"name":"L-serine hydro-lyase (adding homocysteine",
+"name":"L-serine hydro-lyase (adding homocysteine)",
 "metabolites":{
 "MAM02040c":1.0,
 "MAM02133c":-1.0,
@@ -149670,7 +149670,7 @@
 },
 {
 "id":"MAR03881",
-"name":"L-cystathionine cysteine-lyase (deaminating",
+"name":"L-cystathionine cysteine-lyase (deaminating)",
 "metabolites":{
 "MAM00671c":1.0,
 "MAM01628c":1.0,
@@ -149973,7 +149973,7 @@
 },
 {
 "id":"MAR04302",
-"name":"L-cysteine hydrogen-sulfide-lyase (deaminating",
+"name":"L-cysteine hydrogen-sulfide-lyase (deaminating)",
 "metabolites":{
 "MAM01628c":-1.0,
 "MAM02039c":2.0,
@@ -150630,7 +150630,7 @@
 },
 {
 "id":"MAR08683",
-"name":"L-cystine thiocysteine-lyase (deaminating",
+"name":"L-cystine thiocysteine-lyase (deaminating)",
 "metabolites":{
 "MAM01629c":-1.0,
 "MAM02039c":1.0,
@@ -151968,7 +151968,7 @@
 },
 {
 "id":"MAR07141",
-"name":"Se-methyl-L-selenocysteine methaneselenol-lyase (deaminating",
+"name":"Se-methyl-L-selenocysteine methaneselenol-lyase (deaminating)",
 "metabolites":{
 "MAM02039c":1.0,
 "MAM02040c":-1.0,
@@ -202902,7 +202902,7 @@
 },
 {
 "id":"MAR01451",
-"name":"ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP",
+"name":"ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP)",
 "metabolites":{
 "MAM00164c":-1.0,
 "MAM01285c":1.0,
@@ -213719,7 +213719,7 @@
 },
 {
 "id":"MAR04296",
-"name":"ethanolamine-phosphate phosphate-lyase (deaminating",
+"name":"ethanolamine-phosphate phosphate-lyase (deaminating)",
 "metabolites":{
 "MAM01249c":1.0,
 "MAM01798c":-1.0,
@@ -243177,7 +243177,7 @@
 },
 {
 "id":"MAR04744",
-"name":"5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing",
+"name":"5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing)",
 "metabolites":{
 "MAM01074c":-2.0,
 "MAM02039c":1.0,
@@ -255104,7 +255104,7 @@
 },
 {
 "id":"MAR09807",
-"name":"(5R)-5-phosphooxy-L-lysine phosphate-lyase (deaminating",
+"name":"(5R)-5-phosphooxy-L-lysine phosphate-lyase (deaminating)",
 "metabolites":{
 "MAM00631c":1.0,
 "MAM02039c":1.0,
